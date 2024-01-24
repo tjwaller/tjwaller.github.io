@@ -1,0 +1,156 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-family: "dm serif display";
+}
+
+h2 {
+    text-align: center;
+}
+
+
+.container {
+    display: flex;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    width: 20vw;
+    height: 100vh;
+    background-color: #282E28;
+    color: #fff;
+    padding: 20px; 
+    box-sizing: border-box;
+    position: fixed;
+    left: auto; 
+    right: 0;    
+    /* border: white solid; */
+}
+
+.nav {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.directory {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    margin: 10px;
+    text-align: center;
+}
+
+.left-box {
+    display: block;
+    width: 80%;
+}
+
+
+#background-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+#profile-image {
+    display:inline-block;
+    width: 70%;
+    border-radius: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.nav-intro-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.links {
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* border: white solid; */
+}
+
+#icons-box {
+    /* border: white solid; */
+    display: flex;
+
+    justify-content: space-evenly;
+    margin: auto;
+    width: 70%;
+    height: 3em;
+}
+
+.icons {
+    width: 20px;
+    border-radius: 20%;
+}
+
+.icons:hover {
+    width: 2em;
+    height: 2em;
+    transition-duration: .3s;
+}
+
+p {
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.introduction {
+    background-color: lightgray;
+    width: 100%;
+}
+
+.title-section {
+    position: relative;
+    height: 100vh;
+    /* background: url('images/background-image.jpg') center/cover; */
+    text-align: center;
+    color: #fff;
+}
+
+#text-container {
+    position: absolute;
+    text-align: center;
+    font-size: 2em;
+    width: 40vw;
+    top: 25%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    color:#ffffff;
+    padding: 0em;
+    margin: 0px;
+
+}
+
+#hello-im, 
+#thomas-waller,
+#subtitle {
+    padding: 0px;
+    margin: 0px;
+}
+
+#subtitle {
+    font-family:"dm serif display";
+    font-size: .5em;
+}
+
+
+a:hover {
+    text-decoration: italic;
+}

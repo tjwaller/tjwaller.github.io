@@ -1,0 +1,3 @@
+[submodule "diet-creator"]
+	path = diet-creator
+	url = https://github.com/tjwaller/diet-creator.git

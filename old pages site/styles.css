@@ -39,12 +39,15 @@ header {
     color: var(--header-text-color);
 }
 
+.navbar {
+    display: flex;
+    justify-content: flex-end; /* Align links to the right */
+    width: 100%; /* Take up the full width */
+}
+
 .navbar ul {
     display: flex;
-    justify-content: center;
     list-style-type: none;
-    flex-grow: 1;
-    margin-right: 5px;
 }
 
 .navbar a {
@@ -63,7 +66,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 50vh;
     background: var(--bg-color);
     text-align: center;
     padding: 0 20px;
@@ -96,3 +99,53 @@ header {
 .btn:hover {
     background-color: var(--btn-hover-bg);
 }
+/* End of the Hero Section */
+
+/* About Section */
+#about {
+    display: flex;
+    height: 50vh; /* Full viewport height */
+  }
+  
+  .about-container {
+    display: flex;
+    width: 100%;
+  }
+  
+  .about-left,
+  .about-right {
+    flex: 1; /* Equal width for both sections */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .about-left {
+    background-color: var(--accent-color, #ddd); /* Replace with your preferred background color */
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .about-left h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: var(--text-color, #333);
+  }
+  
+  .about-left p {
+    font-size: 1rem;
+    color: var(--text-color, #555);
+  }
+  
+  .about-right {
+    background-color: var(--primary-color, #f5f5f5); /* Optional */
+  }
+  
+  .about-right img {
+    max-width: 90%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* End of the About Section */

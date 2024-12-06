@@ -146,6 +146,8 @@ header .nav-links a:hover {
     color: var(--background-color);
     font-size: 1.5rem;
     border: solid black;
+    border-radius: 10px;
+    width: 10px;
 }
 
 .social-icons a:hover {

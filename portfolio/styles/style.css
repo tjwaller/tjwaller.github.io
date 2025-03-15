@@ -18,8 +18,8 @@
 }
 
 h1 {
-    font-size: 3em;
-}
+    font-size: clamp(1rem, 2vw, 3rem); /* Minimum 1rem, scales with viewport width, max 3rem */
+  }
 
 /* Header Styling */
 
@@ -98,7 +98,7 @@ header .nav-links a:hover {
 
 /* About me Section and Image */
 
-#about {
+.about {
     padding: px;
     background-color: var(--accent-color);
     color: var(--primary-color);
@@ -115,13 +115,26 @@ header .nav-links a:hover {
     margin: 0px;
 }
 
-.text-section {
+.left-section {
+    text-align: center;
     background-color: var(--accent-color);
     flex: 1;
+    display: grid;
+    grid-template-rows: 8fr 1fr;
     padding-right: 1rem;
     /* border: solid; */
     height: 100%;
 }
+
+.about-me-text {
+    
+}
+
+.about-me-text p {
+    padding: 10px;
+    text-align: left;
+}
+
 
 .photo-section {
     background-color: var(--primary-color);
@@ -139,6 +152,7 @@ header .nav-links a:hover {
 .social-icons {
     margin-top: 1rem;
     text-align: center;
+    height: 
 }
 
 .social-icons a {
@@ -197,7 +211,7 @@ footer {
 
 /* Max Width Container */
 #website-content {
-    max-width: 999px; /* Set a comfortable maximum width */
+    max-width: 1700px; /* Set a comfortable maximum width */
     margin: 0 auto;    /* Center horizontally */
     padding: 0 1rem;   /* Add padding for smaller screens */
 }

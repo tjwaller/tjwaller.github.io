@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[School]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>School</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 15 Mar 2025 19:36:02 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 15 Mar 2025 19:35:59 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Best 3 POVs and Why]]></title><description><![CDATA[ 
+ <br><br>✅ Provides focus: Clear problem—AI’s environmental impact makes it inaccessible to Jessica.<br>
+✅ Inspires team: Encourages thinking about sustainable AI solutions.<br>
+✅ Evaluates competing ideas: Any AI tool or policy would be assessed on environmental friendliness.<br>
+✅ Empowers decision-making: Pushes for greener AI adoption.<br>
+✅ Fuels brainstorms: Leads to “How might we make AI more sustainable?”<br>
+✅ Captures hearts and minds: People can relate to the dilemma of choosing between tech and sustainability.<br>
+✅ Guides innovation: Encourages exploration of energy-efficient AI models.<br>
+⭐ Rating: 9.5/10<br>Final POV:<br>
+we met Jessica, an aspiring software engineer with the goal of making the world a better place. We were surprised to notice that she is very hesitant about using AI due to the numerous<br>
+things she’s heard about its negative environmental impacts. We wonder if this means that, in Jessica's eyes, AI is a very powerful and appreciated tool, simply locked behind a cost too great to justify using it. It would be game-changing to provide a way for Jessica to use AI tools without having any negative repercussions on the environment.<br><br>✅ Provides focus: Trust in AI-generated information is the core issue.<br>
+✅ Inspires team: Sparks ideas about improving AI reliability and fact-checking.<br>
+✅ Evaluates competing ideas: AI tools must be more verifiable.<br>
+✅ Empowers decision-making: Leads to transparency-driven AI tools.<br>
+✅ Fuels brainstorms: “How might we ensure AI delivers fact-checked information?”<br>
+✅ Captures hearts and minds: Misinformation is a common concern.<br>
+✅ Guides innovation: Pushes for AI models that cite sources or have built-in verification.<br>
+⭐ Rating: 9/10<br>Final POV:<br>
+we met Aryan, a happy-go-lucky person, who aspires to be a historian. We were surprised to notice that Aryan mentioned that he prefers using Google since he doesn’t trust the information AI gives him. We wonder if this means that he will always view AI as useless, and ultimately subpar to other, more verifiable forms of research and information-seeking. It would be game-changing to have AI tools be more reliable and consistent with things like fact-checking, which would allow Aryan to place more faith in the information AI presents to him.<br><br>✅ Provides focus: Tackles a backend, technical problem.<br>
+✅ Inspires team: Leads to ideas on reducing AI’s energy footprint.<br>
+✅ Evaluates competing ideas: Puts eco-friendliness at the center.<br>
+✅ Empowers decision-making: Encourages exploration of green AI solutions.<br>
+✅ Fuels brainstorms: “How might we design AI systems with sustainability in mind?”<br>
+✅ Captures hearts and minds: Tension between AI advancement and sustainability is relevant.<br>
+✅ Guides innovation: Encourages research into energy-efficient models.<br>
+⭐ Rating: 9/10<br>Final POV:<br>
+we met Gerald, a database manager who’s dead set on making AI systems as powerful and<br>
+versatile to the public as possible. We were surprised to notice that Gerald became stressed out when the issue of environmental impact was brought up. We wonder if this means that Gerald, despite having deep knowledge on LLM development, is unsure about how to make AI systems eco-friendly. It would be game-changing if there was some way on the backend to either reshape or remove some of the environmental effects of AI.]]></description><link>best-3-povs-and-why.html</link><guid isPermaLink="false">Best 3 POVs and Why.md</guid><pubDate>Sat, 15 Mar 2025 18:02:16 GMT</pubDate></item><item><title><![CDATA[Top 3]]></title><description><![CDATA[ 
+ <br>Based on: <a data-href="Best 3 POVs and Why" href="best-3-povs-and-why.html" class="internal-link" target="_self" rel="noopener nofollow">Best 3 POVs and Why</a>. Also refer <a data-tooltip-position="top" aria-label="Brainstorming Selection" data-href="Brainstorming Selection" href="brainstorming-selection.html" class="internal-link" target="_self" rel="noopener nofollow">this guide</a> on how to actually choose these<br>
+Also, we are choosing from <a data-tooltip-position="top" aria-label="Generated How Might We Questions based on the best POVs" data-href="Generated How Might We Questions based on the best POVs" href="generated-how-might-we-questions-based-on-the-best-povs.html" class="internal-link" target="_self" rel="noopener nofollow">this big list</a><br><br>⭐ HMW use idle computational power from personal devices to decentralize AI training?<br>
+I love this one. There's something like this called <a data-tooltip-position="top" aria-label="https://dl.acm.org/doi/abs/10.1145/567162.567164" rel="noopener nofollow" class="external-link" href="https://dl.acm.org/doi/abs/10.1145/567162.567164" target="_blank">SETI</a>. We can use this approach to create a FOSS AI model that can then be run locally on services like OLLAMA<br> HMW change the way AI models are trained or run to make them less resource-intensive?<br>
+I think a good place to go from here is to focus on running them less resource intensively. The Training cost is high, but the models are only trained once. Then they go off and are run across the globe millions of times if mot more. I think a great way to bring down the running cost is to figure out how to give these models a high context window. Maybe they will be able to decide for themselves which parts of the context window are more important and ignore the other parts and have maintaining that as part of the model. Then you can implement the function of brainstorming answers just like we do in this class to keep the running costs low while still having a powerful model. I wonder "How might We" Create an AI model that had an infinite contet window. that can just keep soaking in information and responding. <br> HMW make AI a net-positive force for the environment instead of a burden?<br>
+This one is great, but I don't really know where to start tackling this]]></description><link>best-how-might-we-questions.html</link><guid isPermaLink="false">Best How Might We Questions.md</guid><pubDate>Sat, 15 Mar 2025 19:08:06 GMT</pubDate></item><item><title><![CDATA[Brainstorming Selection]]></title><description><![CDATA[ 
+ <br><img alt="Pasted image 20250315142641.png" src="pasted-image-20250315142641.png"><br><br>Your brainstorm should generate many, wide-ranging ideas. Now harvest that brainstorm, so those ideas don’t just sit there on the board. Harvesting is straight forward for some brainstorms (pick a couple of ideas), but when ideating design solutions give some thought to how you select ideas. Carry forward a range of those ideas, so you preserve the breadth of solutions and don’t settle only for the safe choice.<br><br>In the selection process, don’t narrow too fast. Don’t immediately worry about feasibility. Hang on to the ideas about which the group is excited, amused, or intrigued. An idea that is not plausible may still have an aspect within it that is very useful and meaningful.<br><br>1. Post-it voting – each team member gets three votes and marks three ideas that he or she is attracted to. Independent voting allows all team members to have a voice. <br>2. The four categories method – the method encourages you to hang onto those crazy but meaningful ideas. Elect one or two ideas for each of these four categories: the rational choice, the most likely to delight, the darling, and the long shot. <br>3. Bingo selection method – like the four categories method, this is designed to help preserve innovation potential. Choose ideas that inspire you to build in different form factors: a physical prototype, a digital prototype, and an experience prototype.<br>Carry forward multiple ideas into prototyping. If an idea is so far out there that it seems pointless to test, ask yourselves what about that solution was attractive, and then test that aspect or integrate it into a new solution.]]></description><link>brainstorming-selection.html</link><guid isPermaLink="false">Brainstorming Selection.md</guid><pubDate>Sat, 15 Mar 2025 18:28:44 GMT</pubDate><enclosure url="pasted-image-20250315142641.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;pasted-image-20250315142641.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Generated How Might We Questions based on the best POVs]]></title><description><![CDATA[ 
+ <br><br>
+Jessica is hesitant about AI due to its negative environmental impacts. AI is a powerful tool, but she sees its cost as too great to justify using it.
+<br><br>
+<br>HMW highlight AI’s potential for solving environmental issues to make Jessica see it as a tool for sustainability?
+<br>HMW showcase AI-powered sustainability projects to shift Jessica’s perspective?
+<br><br>
+<br>HMW reduce AI’s carbon footprint so that Jessica and others can use it without guilt?
+<br>HMW create AI tools that prioritize energy efficiency?
+<br><br>
+<br>HMW make AI a net-positive force for the environment instead of a burden?
+<br>HMW make AI’s environmental impact as visible as its benefits to increase accountability?
+<br><br>
+<br>HMW develop AI models that don’t require massive computational power?
+<br>HMW make AI’s sustainability transparent to end users?
+<br><br>
+<br>HMW turn “resource-heavy AI” into “eco-friendly AI”?
+<br>HMW design AI that is perceived as “clean” rather than wasteful?
+<br><br>
+<br>HMW leverage renewable energy sources for AI training and usage?
+<br>HMW partner with environmental organizations to create green AI policies?
+<br><br>
+<br>HMW make AI training as energy-efficient as a Tesla compared to a gas car?
+<br>HMW treat AI like an ecosystem, where resources are recycled instead of wasted?
+<br><br>
+<br>HMW push for industry standards that require AI to be sustainable?
+<br>HMW make AI users accountable for their environmental impact?
+<br><br>
+<br>HMW educate users about AI’s environmental impact?
+<br>HMW incentivize companies to build AI with sustainability in mind?
+<br><br><br>
+Aryan, an aspiring historian, doesn’t trust AI for research and prefers Google because AI-generated information seems unreliable.
+<br><br>
+<br>HMW make AI fact-check itself in real time so Aryan can trust its answers?
+<br>HMW create AI tools that provide primary sources alongside their responses?
+<br><br>
+<br>HMW eliminate misinformation in AI-generated content?
+<br>HMW help AI distinguish between fact and opinion?
+<br><br>
+<br>HMW make AI more trustworthy than Google for historical research?
+<br>HMW make AI-powered research feel as rigorous as a university library search?
+<br><br>
+<br>HMW train AI on verifiable, peer-reviewed sources only?
+<br>HMW give AI a "credibility score" for each response?
+<br><br>
+<br>HMW make AI-generated information “verifiable” instead of “questionable”?
+<br>HMW make AI answers feel “rigorous” rather than “shallow”?
+<br><br>
+<br>HMW use blockchain to track AI’s sources for transparency?
+<br>HMW let AI cross-reference multiple reputable sources before generating an answer?
+<br><br>
+<br>HMW make AI a “historian’s research assistant” rather than a guesswork generator?
+<br>HMW turn AI into an academic librarian rather than a casual chatbot?
+<br><br>
+<br>HMW force AI to cite sources in the same way research papers do?
+<br>HMW hold AI developers accountable for misinformation?
+<br><br>
+<br>HMW make AI’s responses auditable by experts?
+<br>HMW ensure AI doesn’t “hallucinate” incorrect facts?
+<br><br><br>
+Gerald, a database manager, wants AI to be powerful and accessible but gets stressed about its environmental impact. He knows AI is resource-heavy but doesn’t know how to make it eco-friendly.
+<br><br>
+<br>HMW empower developers like Gerald to make AI models more energy-efficient?
+<br>HMW optimize AI processes to require less energy while maintaining performance?
+<br><br>
+<br>HMW reduce AI model training costs without sacrificing accuracy?
+<br>HMW make AI systems require fewer data center resources?
+<br><br>
+<br>HMW turn AI into a driver of renewable energy innovation instead of a consumer of energy?
+<br>HMW make AI more environmentally beneficial than harmful?
+<br><br>
+<br>HMW change the way AI models are trained or run to make them less resource-intensive?
+<br>HMW make sustainability a default requirement for AI models?
+<br><br>
+<br>HMW make AI "lean and green" rather than "power-hungry and wasteful"?
+<br>HMW shift AI from "resource-draining" to "resource-optimizing"?
+<br><br>
+<br>HMW use idle computational power from personal devices to decentralize AI training?
+<br>HMW store AI-generated content in more efficient ways to reduce storage costs?
+<br><br>
+<br>HMW make AI training like a hybrid car—only using high energy when necessary?
+<br>HMW treat AI models like sustainable farms, where resources are renewed and reused?
+<br><br>
+<br>HMW incentivize AI developers to use energy-efficient training methods?
+<br>HMW develop global policies that regulate AI’s energy consumption?
+<br><br>
+<br>HMW help Gerald balance AI’s power with sustainability goals?
+<br>HMW make AI training more energy-efficient without losing effectiveness?
+]]></description><link>generated-how-might-we-questions-based-on-the-best-povs.html</link><guid isPermaLink="false">Generated How Might We Questions based on the best POVs.md</guid><pubDate>Sat, 15 Mar 2025 18:56:25 GMT</pubDate></item><item><title><![CDATA[How Might We]]></title><description><![CDATA[ 
+ <br><br>“How might we” (HMW) questions are short questions that launch brainstorms. HMWs are seeds for your ideation that fall out of your point-of-view statement, design principles, or insights. Create a seed that is broad enough that there are a wide range of solutions but narrow enough that the team is provoked to think of specific, unique ideas. For example, between the (possibly) too narrow “HMW create a cone to eat ice cream without dripping” and the too broad “HMW redesign dessert” might be the properly scoped “HMW redesign ice cream to be more portable.” It should be noted, the the proper scope of the seed will vary with the project and how much progress you have made in your project work<br><br>Begin with your Point of View (POV), insights, or problem statement. Create small actionable questions that retain your unique and specific perspective. Write these questions beginning with the phrase, “How might we…” It is often helpful to brainstorm the HMW questions before the solutions brainstorm. For example, consider the following POV and resulting HMW statements. <br>Challenge: Redesign the ground experience at the local international airport POV: Harried mother of three, rushing through the airport only to wait hours at the gate, needs to entertain her playful children because “annoying little brats” only irritate already frustrated fellow passengers. <br>Amp up the good: HMW use the kids’ energy to entertain fellow passenger?<br>
+Remove the bad:  MW separate the kids from fellow passengers?<br>
+Explore the opposite: HMW make the wait the most exciting part of the trip?<br>
+Question an assumption: HMW entirely remove the wait time at the airport?<br>
+Go after adjectives: HMW we make the rush refreshing instead of harrying?<br>
+ID unexpected resources: HMW leverage free time of fellow passengers to share the load?<br>
+Create an analogy from need or context: HMW make the airport like a spa? Like a playground?<br>
+Play against the challenge: HMW make the airport a place that kids want to go?<br>
+Change a status quo: HMW make playful, loud kids less annoying?<br>
+Break POV into pieces: HMW entertain kids? HMW slow a mom down? HMW mollify delayed passengers?]]></description><link>how-might-we.html</link><guid isPermaLink="false">How Might We.md</guid><pubDate>Sat, 15 Mar 2025 18:09:59 GMT</pubDate></item><item><title><![CDATA[Ideate Slide 7 - Design thinking]]></title><description><![CDATA[ 
+ <br><br>
+<br>Mindset that focuses on a collaboration between designers and users
+<br>Focuses on understanding the user's needs and experiences to create innovative solutions
+<br>User-centric, focusing on empathy and collaboration
+]]></description><link>ideate-slide-7-design-thinking.html</link><guid isPermaLink="false">Ideate Slide 7 - Design thinking.md</guid><pubDate>Sat, 15 Mar 2025 18:38:39 GMT</pubDate></item><item><title><![CDATA[Milestone 3: Define + Ideate]]></title><description><![CDATA[ 
+ <br><br>The goal of this project milestone is to define the focus for your semester project (based on the outcome of <a data-href="Milestone 2" href="milestone-2.html" class="internal-link" target="_self" rel="noopener nofollow">Milestone 2</a>, your initial needfinding) and to come up with some design alternatives to explore solutions within your problem area.<br>In this assignment you will revisit the findings from your needfinding, expand your needfinding on a deeper focus, and formulate points of view (POVs) for your potential  users. From there, you will craft several “How Might We” (HMW) statements to frame the problem area and intended design goal. Based on the best HMW statements that frame the problem space, you will brainstorm several solutions. Using the best of these solutions, you will sketch out three design alternatives. These design alternatives (and accompanying storyboards) will explore the design space and user experience for your problem area.<br><br><br>Based on the needfinding and analysis conducted in the last milestone, identify and conduct any additional needfinding activities your team requires. Interview at least 2 new people (remember to interview in pairs). If you’ve narrowed down what you want to do (e.g., from health down to cancer recovery), interview a range of users that would be affected in that problem area. Combine the new data with your prior data to see if some interesting themes appear in more than one interview. Feel free to use empathy maps, or journey maps to help you synthesize i.e., find needs and insights from all of your interview data. Optional: Go out and conduct one or two observations of some people in action in the context of your problem domain. Record what, how, and why they are doing what they are doing.<br><br>Generate 6+ POVs. You should create at least one POV inspired by each of the interviews your team conducted (these POVs can be generalizations or extrapolations based on the individuals interviewed, they don’t need to be literal representations of your interview participants). Refer to the POV reading/resource and the bootcamp bootleg methods to sanity-check your POVs. Each POV should be formalized as four sentences. Please use the following template to guide your POV generation (italicized sentences are there to guide your POV, and should not be included in your formal POV write ups)1:<br>We met:<br>
+(What specific person did you meet that inspires your work?)<br>We were surprised to notice:<br>
+(Tell us something we didn’t know or wouldn’t have thought about before we started this project. What unique new perspective do you have now? What tension, contradiction, or surprise did you find?)<br>We wonder if this means:<br>
+(What was your leap? What did you infer? This is the need you have uncovered!)<br>It would be game-changing to:<br>
+(This is your call to action. Build on your insight and take an aspirational stance on what you can do as a team. This isn’t your solution – it is the problem to be solved. A problem with a more informed perspective.”<br>John's <a data-href="Milestone 3 - POVs" href="milestone-3-povs.html" class="internal-link" target="_self" rel="noopener nofollow">Milestone 3 - POVs</a><br><br>Select 1-3 POVs that you find most compelling. Final POV statements should be<br>
+written in the following format,<br>“We met … We were surprised to notice … We wonder if this means … It would<br>
+be game changing if …”<br><a data-href="What is a good POV" href="what-is-a-good-pov.html" class="internal-link" target="_self" rel="noopener nofollow">What is a good POV</a>?<br>
+<a data-href="Best 3 POVs and Why" href="best-3-povs-and-why.html" class="internal-link" target="_self" rel="noopener nofollow">Best 3 POVs and Why</a><br><br>Generate 10-15 “<a data-href="How Might We" href="how-might-we.html" class="internal-link" target="_self" rel="noopener nofollow">How Might We</a>” (HMW) statements for each of your best POVs. Refer to this d.school <a data-href="bootcamp bootleg guide.pdf" href="bootcamp-bootleg-guide.pdf" class="internal-link" target="_self" rel="noopener nofollow">bootcamp bootleg guide.pdf</a> on how to generate powerful HMW statements (p. 26).<br><a data-href="Generated How Might We Questions based on the best POVs" href="generated-how-might-we-questions-based-on-the-best-povs.html" class="internal-link" target="_self" rel="noopener nofollow">Generated How Might We Questions based on the best POVs</a><br><br>From the pool of all your HMWs generated in the previous step, select the 3 best HMWs. They need not come from different POVs, but we’d like to see a diversity of HMWs. Refer to this <a data-tooltip-position="top" aria-label="Brainstorming Selection" data-href="Brainstorming Selection" href="brainstorming-selection.html" class="internal-link" target="_self" rel="noopener nofollow">brainstorm selection method card</a> or the ideate lecture slides for selecting ideas (<a data-href="Ideate Slide 7 - Design thinking" href="ideate-slide-7-design-thinking.html" class="internal-link" target="_self" rel="noopener nofollow">Ideate Slide 7 - Design thinking</a>)<br><a data-href="Best How Might We Questions" href="best-how-might-we-questions.html" class="internal-link" target="_self" rel="noopener nofollow">Best How Might We Questions</a><br><br>1 This format and the sentences describing how to answer each question are copied directly from the 2022 Stanford PPT about Define, found in the assignment description. Brainstorm with scraps of paper or post-it notes on how to solve your HMW questions. Remember to do some individual brainstorming first and then do additional brainstorming as a group. Make sure to quickly put up as many ideas as possible. There are no bad ideas at this stage. Try to think of at least 10-15 solutions per each of the 3 best HMWs.<br><br>Select the top 3 solutions. Going for a diverse range of ideas is best at this stage.<br><br>Describe in moderate detail three to five tasks that users will perform using your top three solution ideas. There should be at least one each of simple, moderate, and complex tasks. Note: tasks do not say how to carry out the activity, but instead say what the user is trying to achieve. Focus on user behavior, not features. Label each task as simple, moderate, or complex.<br><br>In this step your team will develop sketches and storyboards of designs and user experiences. Create sketches and storyboards for the top 3 solutions your team has identified (your design alternatives); they should be drawn (likely by hand) and low fidelity.<br>Along with each sketch, you will provide a brief narrative storyboard of how the system will work (see examples at end of document). Your design sketches should be sufficiently detailed for a potential user to provide meaningful feedback about the design. In each of the storyboards, walk through how a user would use each of your 3 different solutions. Do not think about specific technologies at this time. You do not need to build a working prototype at this stage. You will get to that in the next phase. Don’t worry about how awesome the sketches look, the goal is to get the information and experience into an external form factor so that you can successfully communicate your ideas to others.<br><br>The brainstorming process you follow for this project milestone is important.<br>
+Please consider adapting the 10 for 10 method for the brainstorming steps in this assignment. Please use the weekly meeting times you have agreed upon. You all should be working together, especially when you are picking your team’s top POVs, HMWs, and Solutions. Often times, the best ideas will be a combination, extension, or iteration; and this goes best when you all get together and discuss/critique/build-on what you’ve done together.<br>Fundamentally, you should aim to develop a variety of different design ideas and concepts across the entire possible design space for your problem area. The key is to push the boundaries of the design possibilities.<br>Note: brainstorming is a significant part of this assignment, so we highly recommend using a visual collaboration tool, like a whiteboard or pen and paper or FigJame or Miro (both of which have free education accounts).<br><br>Your deliverable for this milestone is a report.<br>
+This report will contain the artifacts your team created for this milestone. Below is an outline of the format you should use for your report, with the section headers and the specific content to include in each section. For each section of the report, please include an explanation of why your team made the choices you made (for example, a justification of why you found these three POV statements to be the most compelling). Make sure that your report adequately reflects the brainstorming process that your group used.<br><br><br>a. Include team name, the names of all team members, and the assignment<br>
+number (Milestone 3)<br><br>a. Describe what your problem area is.<br><br>a. Who you interviewed &amp; what you found out.<br>
+b. Summary of how the new interviews improved upon what you learned from the original needfinding.<br>
+optional: If your team conducted observations, where/what you observed and a<br>
+summary of the who<br><br>a. Present the three top POVs (“We met … We were surprised to notice … We wonder if this means … It would be game changing if …”)<br><br>a. Present the three top HMW statements with the POVs they stem from.<br><br>a. Present the three top solutions. Each solution should have a sub-section header (e.g., Solution 1).<br>
+In each subsection you should include 1) a description of the solution 2) images of the sketches and storyboards for each solution.<br><br>a. Describe your brainstorming and collaborative process. Reflect on the strengths and weakness of your approach<br>
+b. Compare and contrast the three solutions. What are the strengths and weaknesses of each solution?<br>
+c. What did you learn from this phase? Was it what you expected?<br><br>a. In the appendix, please provide:<br>
+- The other 3 POV statements<br>
+- All 10 HMW statements generated for each of the top 3 POVs (30 HMW statements in total). Make sure it is clear which POV these HMW statements correspond to.<br>Note: remember, each section (excluding the Intro and the Appendix) MUST HAVE explanations of your team’s choices.<br><br>Submit your report as a PDF in eLC by March 1st, 2024 . Only one person from your team needs to submit the report. Make sure that your group name appears somewhere on your report.<br><br>Evaluation for this assignment will be based on the content and quality of the work completed. Evaluation Criteria includes:<br>
+<br>Description of additional needfinding interviews (diversity &amp; appropriateness<br>
+of participant, insights).
+<br>Description of POVs, HMWs, and brainstorming of selected solutions.
+<br>Reflection and Explanation of the teams brainstorming, process, and choices.
+<br>Image Legibility: images included are not pixelated and can be assessed. Any<br>
+eligible content is explained clearly in a caption so that the reader can understand what they are viewing.
+<br>Report Quality.
+<br>Completion and Clarity.
+<br><br>Example of output from brainstorming:<br>
+<img alt="Pasted image 20250315120458.png" src="pasted-image-20250315120458.png"><br>
+Example of a storyboard of a user experience:<br>
+<img alt="Pasted image 20250315120518.png" src="pasted-image-20250315120518.png"><br>
+Additionally, don't forget to capture interesting moments throughout your term project journey. This will help you create an interesting video at the end of the semester, which will be the final step of your term project. And don’t forget to have fun! 🙂<br><br>This assignment incorporates elements of previous assignments from Georgia Tech (Ceara Byrne and others) and Stanford (James Landay).]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Sat, 15 Mar 2025 19:08:54 GMT</pubDate><enclosure url="pasted-image-20250315120458.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;pasted-image-20250315120458.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Milestone 2]]></title><description><![CDATA[ 
+ <br>Go fuck yourself<br>link back to <a data-href="index" href="index.html" class="internal-link" target="_self" rel="noopener nofollow">index</a>]]></description><link>milestone-2.html</link><guid isPermaLink="false">Milestone 2.md</guid><pubDate>Sat, 15 Mar 2025 19:35:33 GMT</pubDate></item><item><title><![CDATA[New Interviews]]></title><description><![CDATA[ 
+ <br><br>First one did not want to give us a name, I’m just gonna call him “Bobby”.<br>
+Second one is Victoria<br><br>Bobby: Yes<br>Victoria: I've used it in the past to check to see if strange student responses used it and thus needed to be reported for an honor code violation.<br><br>Bobby: Moderately important; generative AI, including LLMs, will in the long term become unprofitable, and will be less integrated on the frontend, but in development and research will be more broadly used (at a cost), but in the even longer term, the costs will decrease, and it will be as broadly available as it is today, but even more useful and accurate.<br>Victoria: In its current form, I don't think it will be very relevant; it could persist in specific specialized uses where it's actually worthwhile, but I don't think the general-population generative AI will persist.<br><br>Bobby: It needs to be less convincing to vulnerable people (by which I mean people more easily influenced by misinformation, inaccurate claims, and hallucinations.<br>Victoria: Other than those specialized uses above, I want it to die out.<br><br>Bobby: To a certain extent, but things like agriculture, automotive transport, construction, and climate control (that is, in the home and workspace; A/C) are far, far more detrimental, and AI's benefits will likely outweigh its detriment.<br>Victoria: If it persists, yes; it's very wasteful of energy and doesn't even produce anything worthwhile for the majority of its use to justify this at all.<br><br>Bobby: Yes, but it's overstated, and we've always been able to adapt.<br>Victoria: Yes; it doesn't provide trustworthy information but some people are deluded into thinking it does, which can cause problems if they try to do something based on it.<br><br>Bobby: Increased frequency of extreme weather events, special migration/dehabitation/extinction,<br>
+invasive species. They'll be a bigger threat in the future, but not even close to human extinction,<br>
+or really even death on a large scale.<br>Victoria: Really just all the same stuff with global climate change, fossil fuels, etc.; how much of an issue it is really depends on if we start seriously doing something about it or not.<br><br>Bobby: "We" as in the government, too little. "We" as in all people, just enough.<br>Victoria: Far too much.<br><br>Bobby: I'd say net positive, mais on ne sait jamais. TRANSLATION: “but you never know”<br>Victoria: Negative.<br><br>Bobby: Yes<br>Victoria: Briefly, before I figure out the ways to block it.<br><br>Bobby: I'd make people stop using it to generate art, but also make the anti-ai crowd understand that ai-generated art isn't inherently unethical.<br>Victoria: I would change the fact that it exists.<br><br><br>we met Jared, a millennial manager, who does his best to create a happy and loving work culture for his team.<br>
+We were surprised to notice: that despite his decent knowledge about AI, he couldn’t care less about it, its development, or its consequences.<br>
+We wonder if this means that: AI doesn’t provide enough meaningful utility to affect certain job spaces or professions, such as Jared’s.<br>
+ItIt would be game-changing to: have AI be useful enough to help Jared in his goal of creating a<br>
+welcoming, but efficient, workplace for all.<br><br>we met Jessica, an aspiring software engineer with the goal of making the world a better place.<br>
+We were surprised to notice: that she is very hesitant about using AI due to the numerous<br>
+things she’s heard about its negative environmental impacts.<br>
+We wonder if this means that:, in Jessica's eyes, AI is a very powerful and appreciated tool,<br>
+simply locked behind a cost too great to justify using it.<br>
+It would be game-changing to: provide a way for Jessica to use AI tools without having any<br>
+negative repercussions on the environment.<br><br>we met Aryan, a happy-go-lucky person, who aspires to be a historian.<br>
+We were surprised to notice: that Aryan mentioned that he prefers using Google since he<br>
+doesn’t trust the information AI gives him.<br>
+We wonder if this means that: he will always view AI as useless, and ultimately subpar to other,<br>
+more verifiable forms of research and information-seeking.<br>
+It would be game-changing to: have AI tools be more reliable and consistent with things like<br>
+fact-checking, which would allow Aryan to place more faith in the information AI presents to him.<br><br>we met Jerry, a 50 year-old Facebook parent, who loves funny AI imagery and enjoys talking<br>
+about it with others online.<br>
+We were surprised to notice: that Jerry mentioned how he generates hundreds of images a day, asking what the harm was in having fun.<br>
+We wonder if this means Jerry has no knowledge about how AI generated content is made, or<br>
+any of its environmental issues.<br>
+It would be game-changing to: provide more transparency on the backend of AI and its<br>
+development, so that people know the risks before engaging with it.<br><br>we met Jorge, a middle-aged teacher who is struggling to keep up with modern trends and<br>
+technology<br>
+We were surprised to notice: that Jorge felt uncomfortable when we brought up the potential<br>
+usage of AI tools in an academic setting<br>
+We wonder if this means that: Jorge feels like putting AI tools in the classroom is unnecessary,<br>
+and would only do more harm than good.<br>
+It would be game-changing to: provide a safe way to use AI so that Jorge could have<br>
+peace-of-mind.<br><br>we met Jennifer, an environmental activist set on making sure that stays happy, healthy, and<br>
+green.<br>
+We were surprised to notice: her complete and full-fledged disdain for all things relating to AI,<br>
+especially for the impact it has on the environment.<br>
+We wonder if this means that: Jennifer thinks that recent AI developments are daunting and<br>
+overly promoted, while the environmental downsides that come with AI are extremely scary and<br>
+should be dealt with.<br>
+It would be game-changing to: show Jennifer that AI tools have value and will continue to have<br>
+value, while addressing some of her concerns about the environmental issues about AI.<br><br>we met Gerald, a database manager who’s dead set on making AI systems as powerful and<br>
+versatile to the public as possible.<br>
+We were surprised to notice: that Gerald became stressed out when the issue of<br>
+environmental impact was brought up.<br>
+We wonder if this means that: Gerald, despite having deep knowledge on LLM development, is<br>
+unsure about how to make AI systems eco-friendly.<br>
+It would be game-changing if: there was some way on the backend to either reshape or<br>
+remove some of the environmental effects of AI.]]></description><link>milestone-3-povs.html</link><guid isPermaLink="false">Milestone 3 - POVs.md</guid><pubDate>Sat, 15 Mar 2025 17:01:09 GMT</pubDate></item><item><title><![CDATA[process of narrowing down to the top three HMW questions]]></title><description><![CDATA[ 
+ <br><br>
+<br>Rational choice: HMW reduce AI’s carbon footprint so that Jessica and others can use it without guilt?<br>
+(Practical and directly addresses the core concern.)
+<br>Most likely to delight: HMW make AI training as energy-efficient as a Tesla compared to a gas car?<br>
+(Creates a clear, relatable analogy that could inspire new approaches.)
+<br>The darling: HMW make AI’s environmental impact as visible as its benefits to increase accountability?<br>
+(Shifts the narrative and encourages transparency.)
+<br>The long shot: HMW leverage renewable energy sources for AI training and usage?<br>
+(A big, ambitious goal that could inspire future advancements.)
+<br><br>
+<br>Rational choice: HMW create AI tools that provide primary sources alongside their responses?<br>
+(Directly improves trust and usability for research purposes.)
+<br>Most likely to delight: HMW make AI a “historian’s research assistant” rather than a guesswork generator?<br>
+(A fun and engaging reframe that makes AI feel more like a helpful tool than an unreliable black box.)
+<br>The darling: HMW force AI to cite sources in the same way research papers do?<br>
+(A game-changing approach that could redefine AI credibility.)
+<br>The long shot: HMW use blockchain to track AI’s sources for transparency?<br>
+(Innovative but complex—if feasible, it could dramatically improve trust in AI.)
+<br><br>
+<br>Rational choice: HMW optimize AI processes to require less energy while maintaining performance?<br>
+(A highly practical goal that aligns with industry needs.)
+<br>Most likely to delight: HMW make AI training like a hybrid car—only using high energy when necessary?<br>
+(A strong analogy that makes AI efficiency more intuitive.)
+<br>The darling: HMW empower developers like Gerald to make AI models more energy-efficient?<br>
+(If developers have the right tools and incentives, change could happen faster.)
+<br>The long shot: HMW use idle computational power from personal devices to decentralize AI training?<br>
+(A radical shift in AI training that, while challenging, could revolutionize efficiency.)
+]]></description><link>process-of-narrowing-down-to-the-top-three-hmw-questions.html</link><guid isPermaLink="false">process of narrowing down to the top three HMW questions.md</guid><pubDate>Sat, 15 Mar 2025 18:51:04 GMT</pubDate></item><item><title><![CDATA[What is a good POV]]></title><description><![CDATA[ 
+ <br>As a test, a good point of view (POV) is one that:  <br>
+<br>Provides focus and frames the problem  
+<br>Inspires your team  
+<br>Provides a reference for evaluating competing ideas  
+<br>Empowers team members to make decisions in response to the high-level goals of the team  
+<br>Fuels brainstorms by suggesting “how might we” statements  
+<br>Captures the hearts and minds of people you meet  
+<br>Saves you from the impossible task of developing solution concepts that are all things to all people  
+<br>You revisit and reformulate as you learn by doing  
+<br>Guides your innovation efforts
+]]></description><link>what-is-a-good-pov.html</link><guid isPermaLink="false">What is a good POV.md</guid><pubDate>Sat, 15 Mar 2025 17:30:30 GMT</pubDate></item></channel></rss>

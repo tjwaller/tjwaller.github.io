@@ -1,8 +1,8 @@
 {
   "vaultName": "School",
-  "lastExport": 1742083703776,
+  "lastExport": 1742241513778,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon ctp-latte ctp-mocha ctp-accent-light-peach ctp-accent-rosewater anuppuccin-accent-toggle anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-bold-red anp-italic-green anp-highlight-yellow anp-theme-ext-light anp-theme-ext-dark ctp-gruvbox-light ctp-biscuit-dark",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon ctp-latte ctp-mocha ctp-accent-light-peach ctp-accent-rosewater anuppuccin-accent-toggle anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-bold-red anp-italic-green anp-highlight-yellow anp-theme-ext-light anp-theme-ext-dark ctp-gruvbox-light ctp-biscuit-dark",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
@@ -18,6 +18,7 @@
     "Spring 2025/Human Computer Interaction/Milestone 3/LaJohn.md",
     "Spring 2025/Human Computer Interaction/Milestone 3/Milestone 3.md",
     "Spring 2025/Human Computer Interaction/Milestone 3/Milestone 3 - POVs.md",
+    "Spring 2025/Human Computer Interaction/Milestone 3/Milestone 3 - Sketches.md",
     "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315120458.png",
     "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315120518.png",
     "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315120655.png",
@@ -26,6 +27,9 @@
     "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315142641.png",
     "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315194357.png",
     "Spring 2025/Human Computer Interaction/Milestone 3/process of narrowing down to the top three HMW questions.md",
+    "Spring 2025/Human Computer Interaction/Milestone 3/Sketch1.jpg",
+    "Spring 2025/Human Computer Interaction/Milestone 3/Sketch2.jpg",
+    "Spring 2025/Human Computer Interaction/Milestone 3/Sketch3.jpg",
     "Spring 2025/Human Computer Interaction/Milestone 3/What is a good POV.md",
     "index.md",
     "lib/scripts/graph-wasm.wasm",
@@ -95,25 +99,25 @@
   ],
   "fileInfo": {
     "Spring 2025/Human Computer Interaction/Milestone 3/Best 3 POVs and Why.md": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 3707,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/best-3-povs-and-why.html",
       "dependencies": []
     },
     "Spring 2025/Human Computer Interaction/Milestone 3/Best How Might We Questions.md": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 697,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/best-how-might-we-questions.html",
       "dependencies": []
     },
     "Spring 2025/Human Computer Interaction/Milestone 3/bootcamp bootleg guide.pdf": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 3615098,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/bootcamp-bootleg-guide.pdf",
       "dependencies": []
     },
     "Spring 2025/Human Computer Interaction/Milestone 3/Brainstorming Selection.md": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 1783,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/brainstorming-selection.html",
       "dependencies": [
@@ -121,37 +125,37 @@
       ]
     },
     "Spring 2025/Human Computer Interaction/Milestone 3/Brainstorming top 3 Solutions - Milestone 3.md": {
-      "modifiedTime": 1742083703776,
-      "sourceSize": 0,
+      "modifiedTime": 1742241513778,
+      "sourceSize": 1875,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/brainstorming-top-3-solutions-milestone-3.html",
       "dependencies": []
     },
     "Spring 2025/Human Computer Interaction/Milestone 3/Generated How Might We Questions based on the best POVs.md": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 5664,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/generated-how-might-we-questions-based-on-the-best-povs.html",
       "dependencies": []
     },
     "Spring 2025/Human Computer Interaction/Milestone 3/Group Brainstorm - Proposed Solutions.md": {
-      "modifiedTime": 1742083703776,
-      "sourceSize": 3150,
+      "modifiedTime": 1742241513778,
+      "sourceSize": 3248,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/group-brainstorm-proposed-solutions.html",
       "dependencies": []
     },
     "Spring 2025/Human Computer Interaction/Milestone 3/How Might We.md": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 2299,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/how-might-we.html",
       "dependencies": []
     },
     "Spring 2025/Human Computer Interaction/Milestone 3/Ideate Slide 7 - Design thinking.md": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 264,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/ideate-slide-7-design-thinking.html",
       "dependencies": []
     },
     "Spring 2025/Human Computer Interaction/Milestone 3/LaJohn.md": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 36,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/lajohn.html",
       "dependencies": [
@@ -159,8 +163,8 @@
       ]
     },
     "Spring 2025/Human Computer Interaction/Milestone 3/Milestone 3.md": {
-      "modifiedTime": 1742083703776,
-      "sourceSize": 11357,
+      "modifiedTime": 1742241513778,
+      "sourceSize": 11774,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/milestone-3.html",
       "dependencies": [
         "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315120458.png",
@@ -168,277 +172,323 @@
       ]
     },
     "Spring 2025/Human Computer Interaction/Milestone 3/Milestone 3 - POVs.md": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 8252,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/milestone-3-povs.html",
       "dependencies": []
     },
+    "Spring 2025/Human Computer Interaction/Milestone 3/Milestone 3 - Sketches.md": {
+      "modifiedTime": 1742241513778,
+      "sourceSize": 64,
+      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/milestone-3-sketches.html",
+      "dependencies": [
+        "spring-2025/human-computer-interaction/milestone-3/sketch3.jpg",
+        "spring-2025/human-computer-interaction/milestone-3/sketch2.jpg",
+        "spring-2025/human-computer-interaction/milestone-3/sketch1.jpg"
+      ]
+    },
     "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315120458.png": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 693550,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315120458.png",
       "dependencies": []
     },
     "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315120518.png": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 302090,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315120518.png",
       "dependencies": []
     },
     "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315120655.png": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 302090,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315120655.png",
       "dependencies": []
     },
     "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315131808.png": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 211848,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315131808.png",
       "dependencies": []
     },
     "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315140624.png": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 390564,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315140624.png",
       "dependencies": []
     },
     "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315142641.png": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 878179,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315142641.png",
       "dependencies": []
     },
     "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315194357.png": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 50014,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315194357.png",
       "dependencies": []
     },
     "Spring 2025/Human Computer Interaction/Milestone 3/process of narrowing down to the top three HMW questions.md": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 2246,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/process-of-narrowing-down-to-the-top-three-hmw-questions.html",
       "dependencies": []
     },
+    "Spring 2025/Human Computer Interaction/Milestone 3/Sketch1.jpg": {
+      "modifiedTime": 1742241513778,
+      "sourceSize": 582342,
+      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/sketch1.jpg",
+      "dependencies": []
+    },
+    "Spring 2025/Human Computer Interaction/Milestone 3/Sketch2.jpg": {
+      "modifiedTime": 1742241513778,
+      "sourceSize": 534970,
+      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/sketch2.jpg",
+      "dependencies": []
+    },
+    "Spring 2025/Human Computer Interaction/Milestone 3/Sketch3.jpg": {
+      "modifiedTime": 1742241513778,
+      "sourceSize": 796607,
+      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/sketch3.jpg",
+      "dependencies": []
+    },
     "Spring 2025/Human Computer Interaction/Milestone 3/What is a good POV.md": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 580,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/what-is-a-good-pov.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 236,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315142641.png": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 878179,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315142641.png",
       "dependencies": []
     },
     "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315194357.png": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 50014,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315194357.png",
       "dependencies": []
     },
     "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315120458.png": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 693550,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315120458.png",
       "dependencies": []
     },
     "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315120518.png": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 302090,
       "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315120518.png",
       "dependencies": []
     },
+    "spring-2025/human-computer-interaction/milestone-3/sketch3.jpg": {
+      "modifiedTime": 1742241513778,
+      "sourceSize": 796607,
+      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/sketch3.jpg",
+      "dependencies": []
+    },
+    "spring-2025/human-computer-interaction/milestone-3/sketch2.jpg": {
+      "modifiedTime": 1742241513778,
+      "sourceSize": 534970,
+      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/sketch2.jpg",
+      "dependencies": []
+    },
+    "spring-2025/human-computer-interaction/milestone-3/sketch1.jpg": {
+      "modifiedTime": 1742241513778,
+      "sourceSize": 582342,
+      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/sketch1.jpg",
+      "dependencies": []
+    },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1742083703776,
-      "sourceSize": 12680,
+      "modifiedTime": 1742241513778,
+      "sourceSize": 14238,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1742083703776,
-      "sourceSize": 2061,
+      "modifiedTime": 1742241513778,
+      "sourceSize": 2201,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 137567,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 272363,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 394,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 3882,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1742083703776,
+      "modifiedTime": 1742241513778,
       "sourceSize": 24897,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []

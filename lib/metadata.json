@@ -1,37 +1,312 @@
 {
   "vaultName": "School",
-  "lastExport": 1742241513778,
+  "lastExport": 1742995669493,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon ctp-latte ctp-mocha ctp-accent-light-peach ctp-accent-rosewater anuppuccin-accent-toggle anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-bold-red anp-italic-green anp-highlight-yellow anp-theme-ext-light anp-theme-ext-dark ctp-gruvbox-light ctp-biscuit-dark",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon ctp-latte ctp-mocha ctp-accent-light-peach ctp-accent-rosewater anuppuccin-accent-toggle anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-bold-red anp-italic-green anp-highlight-yellow anp-theme-ext-light anp-theme-ext-dark ctp-gruvbox-light ctp-biscuit-dark",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "Spring 2025/Human Computer Interaction/Milestone 3/Best 3 POVs and Why.md",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Best How Might We Questions.md",
-    "Spring 2025/Human Computer Interaction/Milestone 3/bootcamp bootleg guide.pdf",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Brainstorming Selection.md",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Brainstorming top 3 Solutions - Milestone 3.md",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Generated How Might We Questions based on the best POVs.md",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Group Brainstorm - Proposed Solutions.md",
-    "Spring 2025/Human Computer Interaction/Milestone 3/How Might We.md",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Ideate Slide 7 - Design thinking.md",
-    "Spring 2025/Human Computer Interaction/Milestone 3/LaJohn.md",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Milestone 3.md",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Milestone 3 - POVs.md",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Milestone 3 - Sketches.md",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315120458.png",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315120518.png",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315120655.png",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315131808.png",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315140624.png",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315142641.png",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315194357.png",
-    "Spring 2025/Human Computer Interaction/Milestone 3/process of narrowing down to the top three HMW questions.md",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Sketch1.jpg",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Sketch2.jpg",
-    "Spring 2025/Human Computer Interaction/Milestone 3/Sketch3.jpg",
-    "Spring 2025/Human Computer Interaction/Milestone 3/What is a good POV.md",
+    "CCNA Study/Notes/10BASE-T and 100BASE-T.md",
+    "CCNA Study/Notes/802.1Q.md",
+    "CCNA Study/Notes/802.1Q tag format.md",
+    "CCNA Study/Notes/1000BASE-T and 10GBASE-T.md",
+    "CCNA Study/Notes/ABR.md",
+    "CCNA Study/Notes/Access Ports.md",
+    "CCNA Study/Notes/Administrative Distance.md",
+    "CCNA Study/Notes/Alternate ports.md",
+    "CCNA Study/Notes/Application Layer.md",
+    "CCNA Study/Notes/APR Table.md",
+    "CCNA Study/Notes/ARP.md",
+    "CCNA Study/Notes/ARP Reply Frame.md",
+    "CCNA Study/Notes/ARP Request Frame.md",
+    "CCNA Study/Notes/AS.md",
+    "CCNA Study/Notes/ASBR.md",
+    "CCNA Study/Notes/Assigning IP Addresses.md",
+    "CCNA Study/Notes/Auto-MDIX.md",
+    "CCNA Study/Notes/Automatically configured routes.md",
+    "CCNA Study/Notes/autonomous system number.md",
+    "CCNA Study/Notes/BackboneFast.md",
+    "CCNA Study/Notes/Backup ports.md",
+    "CCNA Study/Notes/bandwidth.md",
+    "CCNA Study/Notes/BDPU.md",
+    "CCNA Study/Notes/Bellman-Ford.md",
+    "CCNA Study/Notes/Blocking State.md",
+    "CCNA Study/Notes/BPDU Filter.md",
+    "CCNA Study/Notes/BPDU Guard.md",
+    "CCNA Study/Notes/Bridge ID.md",
+    "CCNA Study/Notes/Bridge Priority.md",
+    "CCNA Study/Notes/broadcast address.md",
+    "CCNA Study/Notes/broadcast frame.md",
+    "CCNA Study/Notes/Broadcast storms.md",
+    "CCNA Study/Notes/Calculating first and last usable addresses in a network.md",
+    "CCNA Study/Notes/Calculating number of hosts in a network.md",
+    "CCNA Study/Notes/CCNA Exam Format.md",
+    "CCNA Study/Notes/CCNA Exam Topics.md",
+    "CCNA Study/Notes/CCNA Home Lab.md",
+    "CCNA Study/Notes/CCNA Home Lab Supplies.md",
+    "CCNA Study/Notes/CCNA Lit Review.md",
+    "CCNA Study/Notes/CCNA Practice.md",
+    "CCNA Study/Notes/ChatGPT Socket Programming Assignment Solution.md",
+    "CCNA Study/Notes/choosing a root port.md",
+    "CCNA Study/Notes/CIDR.md",
+    "CCNA Study/Notes/CIDR Notation.md",
+    "CCNA Study/Notes/Cisco CLI Commands.md",
+    "CCNA Study/Notes/Cisco Commands.md",
+    "CCNA Study/Notes/Cisco Commands - global config.md",
+    "CCNA Study/Notes/Cisco IOS.md",
+    "CCNA Study/Notes/cisco network command.md",
+    "CCNA Study/Notes/Cisco Packet Tracer.md",
+    "CCNA Study/Notes/Cisco Router Commands.md",
+    "CCNA Study/Notes/Cisco Switch commands.md",
+    "CCNA Study/Notes/Cisco VLAN commands.md",
+    "CCNA Study/Notes/CiscoRoutingTable.png",
+    "CCNA Study/Notes/Class C Subnets Table.md",
+    "CCNA Study/Notes/Client.md",
+    "CCNA Study/Notes/Configuring Cisco Devices.md",
+    "CCNA Study/Notes/Configuring Cisco Devices 1.md",
+    "CCNA Study/Notes/Configuring EtherChannel Load Balancing.md",
+    "CCNA Study/Notes/Configuring IP Addresses.md",
+    "CCNA Study/Notes/configuring trunk ports.md",
+    "CCNA Study/Notes/Configuring VLANs.md",
+    "CCNA Study/Notes/Connected routes.md",
+    "CCNA Study/Notes/Crossover Cable.md",
+    "CCNA Study/Notes/CSMA CD.md",
+    "CCNA Study/Notes/Data Link Layer.md",
+    "CCNA Study/Notes/Default route.md",
+    "CCNA Study/Notes/DEI.md",
+    "CCNA Study/Notes/Destination Mac Address.md",
+    "CCNA Study/Notes/Dijkstra's Algorithm.md",
+    "CCNA Study/Notes/Discarding State.md",
+    "CCNA Study/Notes/Distance Vector.md",
+    "CCNA Study/Notes/DSCP.md",
+    "CCNA Study/Notes/DTP.md",
+    "CCNA Study/Notes/Dynamic mac addresses.md",
+    "CCNA Study/Notes/Dynamic Routing.md",
+    "CCNA Study/Notes/Ebay Switch.md",
+    "CCNA Study/Notes/ECMP.md",
+    "CCNA Study/Notes/ECN.md",
+    "CCNA Study/Notes/EIGRP.md",
+    "CCNA Study/Notes/EIGRP configuration.md",
+    "CCNA Study/Notes/Encapsulation.md",
+    "CCNA Study/Notes/errDisable.md",
+    "CCNA Study/Notes/EtherChannel.md",
+    "CCNA Study/Notes/EtherChannel Commands.md",
+    "CCNA Study/Notes/Ethernet.md",
+    "CCNA Study/Notes/Ethernet Frame.md",
+    "CCNA Study/Notes/Ethernet Header.md",
+    "CCNA Study/Notes/Ethernet Header Table.md",
+    "CCNA Study/Notes/Ethernet LAN Switching.md",
+    "CCNA Study/Notes/Ethernet Trailer.md",
+    "CCNA Study/Notes/Ethernet Type Field.md",
+    "CCNA Study/Notes/Extended System ID.md",
+    "CCNA Study/Notes/FCS.md",
+    "CCNA Study/Notes/Fiber Optic Cable Diagram.md",
+    "CCNA Study/Notes/Fiber Optic Standards.md",
+    "CCNA Study/Notes/fiber optics.md",
+    "CCNA Study/Notes/Firewall.md",
+    "CCNA Study/Notes/Floating Static Routes.md",
+    "CCNA Study/Notes/Forwarding State.md",
+    "CCNA Study/Notes/Frame.md",
+    "CCNA Study/Notes/Frame Check Sequence.md",
+    "CCNA Study/Notes/Hello BPDU.md",
+    "CCNA Study/Notes/Hexadecimal Codes and What they mean for the CCNA.md",
+    "CCNA Study/Notes/How many subnets can you have.md",
+    "CCNA Study/Notes/How to configure Vlans on CISCO Switches.md",
+    "CCNA Study/Notes/How to do CCNA Notecards.md",
+    "CCNA Study/Notes/Hub.md",
+    "CCNA Study/Notes/ICMP.md",
+    "CCNA Study/Notes/ICMP Echo Reply.md",
+    "CCNA Study/Notes/ICMP Echo Request.md",
+    "CCNA Study/Notes/Identification field.md",
+    "CCNA Study/Notes/IEEE 802.3.md",
+    "CCNA Study/Notes/IHL.md",
+    "CCNA Study/Notes/Interface Names.md",
+    "CCNA Study/Notes/Interfaces and Cables.md",
+    "CCNA Study/Notes/Interview Notes.md",
+    "CCNA Study/Notes/IPv4 Address Assignment.md",
+    "CCNA Study/Notes/IPv4 Address Classes.md",
+    "CCNA Study/Notes/IPv4 Address Classes Table.md",
+    "CCNA Study/Notes/IPv4 Addresses.md",
+    "CCNA Study/Notes/IPv4 Header.md",
+    "CCNA Study/Notes/IPv4 Header Diagram.md",
+    "CCNA Study/Notes/ISL.md",
+    "CCNA Study/Notes/known unicast frame.md",
+    "CCNA Study/Notes/LACP.md",
+    "CCNA Study/Notes/LACP Configuration.md",
+    "CCNA Study/Notes/LAN.md",
+    "CCNA Study/Notes/Learning State.md",
+    "CCNA Study/Notes/Life of a Packet.md",
+    "CCNA Study/Notes/Life of a Packet Network Diagram.md",
+    "CCNA Study/Notes/Link State.md",
+    "CCNA Study/Notes/Listening State.md",
+    "CCNA Study/Notes/Local routes.md",
+    "CCNA Study/Notes/Loop Guard.md",
+    "CCNA Study/Notes/LSA.md",
+    "CCNA Study/Notes/LSA flooding.md",
+    "CCNA Study/Notes/LSDB.md",
+    "CCNA Study/Notes/MAC Address.md",
+    "CCNA Study/Notes/MAC address Table.md",
+    "CCNA Study/Notes/Max Age.md",
+    "CCNA Study/Notes/Most specific route.md",
+    "CCNA Study/Notes/MTU.md",
+    "CCNA Study/Notes/multicast.md",
+    "CCNA Study/Notes/multicast group.md",
+    "CCNA Study/Notes/Multimode Fiber Optic Cables.md",
+    "CCNA Study/Notes/native VLANs.md",
+    "CCNA Study/Notes/Netmask.md",
+    "CCNA Study/Notes/network address.md",
+    "CCNA Study/Notes/Network Layer.md",
+    "CCNA Study/Notes/Network Protocol Flashcards.md",
+    "CCNA Study/Notes/network protocols.md",
+    "CCNA Study/Notes/Network Redundancy.md",
+    "CCNA Study/Notes/network standards.md",
+    "CCNA Study/Notes/OSPF.md",
+    "CCNA Study/Notes/OSPF areas.md",
+    "CCNA Study/Notes/OSPF configuration.md",
+    "CCNA Study/Notes/OSPF neighbors.md",
+    "CCNA Study/Notes/Other Trunk Port Commands.md",
+    "CCNA Study/Notes/OUI.md",
+    "CCNA Study/Notes/Packet.md",
+    "CCNA Study/Notes/Packet Table.md",
+    "CCNA Study/Notes/PAgP.md",
+    "CCNA Study/Notes/PAgP Configuration.md",
+    "CCNA Study/Notes/passive interface.md",
+    "CCNA Study/Notes/passive interface configuration.md",
+    "CCNA Study/Notes/Pasted image 20250206085345.png",
+    "CCNA Study/Notes/Pasted image 20250206090008.png",
+    "CCNA Study/Notes/Pasted image 20250206090522.png",
+    "CCNA Study/Notes/Pasted image 20250206091103.png",
+    "CCNA Study/Notes/Pasted image 20250206091212.png",
+    "CCNA Study/Notes/Pasted image 20250206091227.png",
+    "CCNA Study/Notes/Pasted image 20250207080159.png",
+    "CCNA Study/Notes/Pasted image 20250207192315.png",
+    "CCNA Study/Notes/Pasted image 20250208111153.png",
+    "CCNA Study/Notes/Pasted image 20250208111742.png",
+    "CCNA Study/Notes/Pasted image 20250209103823.png",
+    "CCNA Study/Notes/Pasted image 20250209120451.png",
+    "CCNA Study/Notes/Pasted image 20250209122936.png",
+    "CCNA Study/Notes/Pasted image 20250213180207.png",
+    "CCNA Study/Notes/Pasted image 20250214125643.png",
+    "CCNA Study/Notes/Pasted image 20250214131809.png",
+    "CCNA Study/Notes/Pasted image 20250214131832.png",
+    "CCNA Study/Notes/Pasted image 20250214134030.png",
+    "CCNA Study/Notes/Pasted image 20250217113519.png",
+    "CCNA Study/Notes/Pasted image 20250307141132.png",
+    "CCNA Study/Notes/Pasted image 20250307142010.png",
+    "CCNA Study/Notes/Pasted image 20250307142224.png",
+    "CCNA Study/Notes/Pasted image 20250307142853.png",
+    "CCNA Study/Notes/Pasted image 20250311112027.png",
+    "CCNA Study/Notes/Pasted image 20250312122836.png",
+    "CCNA Study/Notes/Pasted image 20250312123213.png",
+    "CCNA Study/Notes/Pasted image 20250312134534.png",
+    "CCNA Study/Notes/Pasted image 20250312135632.png",
+    "CCNA Study/Notes/Pasted image 20250312135818.png",
+    "CCNA Study/Notes/Pasted image 20250312140009.png",
+    "CCNA Study/Notes/Pasted image 20250312141918.png",
+    "CCNA Study/Notes/Pasted image 20250312152033.png",
+    "CCNA Study/Notes/Pasted image 20250312152434.png",
+    "CCNA Study/Notes/Pasted image 20250312152545.png",
+    "CCNA Study/Notes/Pasted image 20250312153825.png",
+    "CCNA Study/Notes/Pasted image 20250313121454.png",
+    "CCNA Study/Notes/Pasted image 20250313121548.png",
+    "CCNA Study/Notes/Pasted image 20250313180054.png",
+    "CCNA Study/Notes/Pasted image 20250313181015.png",
+    "CCNA Study/Notes/Pasted image 20250313184146.png",
+    "CCNA Study/Notes/Pasted image 20250318121021.png",
+    "CCNA Study/Notes/Pasted image 20250319110015.png",
+    "CCNA Study/Notes/Pasted image 20250320102241.png",
+    "CCNA Study/Notes/Pasted image 20250322115541.png",
+    "CCNA Study/Notes/PCP.md",
+    "CCNA Study/Notes/Physical Layer.md",
+    "CCNA Study/Notes/ping.md",
+    "CCNA Study/Notes/point to point networks.md",
+    "CCNA Study/Notes/PortFast.md",
+    "CCNA Study/Notes/Preamble.md",
+    "CCNA Study/Notes/Presentation Layer.md",
+    "CCNA Study/Notes/privileged EXEC Mode.md",
+    "CCNA Study/Notes/RIP.md",
+    "CCNA Study/Notes/RIPng.md",
+    "CCNA Study/Notes/RIPv1.md",
+    "CCNA Study/Notes/RIPv2.md",
+    "CCNA Study/Notes/RIPv2 Configuration.md",
+    "CCNA Study/Notes/RJ-45.md",
+    "CCNA Study/Notes/rollover cable.md",
+    "CCNA Study/Notes/Root Bridge Placement.md",
+    "CCNA Study/Notes/Root Guard.md",
+    "CCNA Study/Notes/router.md",
+    "CCNA Study/Notes/router ID.md",
+    "CCNA Study/Notes/router ID configuration.md",
+    "CCNA Study/Notes/Router on a Stick Configuration.md",
+    "CCNA Study/Notes/routing fundamentals.md",
+    "CCNA Study/Notes/Routing fundamentals summary.md",
+    "CCNA Study/Notes/Routing Metric.md",
+    "CCNA Study/Notes/Routing Protocols.md",
+    "CCNA Study/Notes/routing table.md",
+    "CCNA Study/Notes/RSTP.md",
+    "CCNA Study/Notes/RSTP BPDU.md",
+    "CCNA Study/Notes/RSTP Link Types.md",
+    "CCNA Study/Notes/server.md",
+    "CCNA Study/Notes/Session Layer.md",
+    "CCNA Study/Notes/Setting a Password in the CISCO Router.md",
+    "CCNA Study/Notes/Setting up Cisco Devices.md",
+    "CCNA Study/Notes/SFD.md",
+    "CCNA Study/Notes/SFP.md",
+    "CCNA Study/Notes/show ip protocols.md",
+    "CCNA Study/Notes/show ip route.md",
+    "CCNA Study/Notes/Single Mode Fiber Optic Cables.md",
+    "CCNA Study/Notes/Source MAC Address.md",
+    "CCNA Study/Notes/Source Mac Address 1.md",
+    "CCNA Study/Notes/SPF.md",
+    "CCNA Study/Notes/Start Frame Delimiter.md",
+    "CCNA Study/Notes/static route.md",
+    "CCNA Study/Notes/Static Routing.md",
+    "CCNA Study/Notes/STP.md",
+    "CCNA Study/Notes/STP BPDU.md",
+    "CCNA Study/Notes/STP Cisco Versions.md",
+    "CCNA Study/Notes/STP commands.md",
+    "CCNA Study/Notes/STP Industry Standards.md",
+    "CCNA Study/Notes/STP Modes.md",
+    "CCNA Study/Notes/STP port cost.md",
+    "CCNA Study/Notes/STP port states.md",
+    "CCNA Study/Notes/STP Timers.md",
+    "CCNA Study/Notes/STP Toolkit.md",
+    "CCNA Study/Notes/STP Versions.md",
+    "CCNA Study/Notes/STP vs. RSTP.md",
+    "CCNA Study/Notes/straight through cable.md",
+    "CCNA Study/Notes/Subnet Mask.md",
+    "CCNA Study/Notes/Subnetting.md",
+    "CCNA Study/Notes/switch.md",
+    "CCNA Study/Notes/switchport modes.md",
+    "CCNA Study/Notes/TCI.md",
+    "CCNA Study/Notes/tonights-biggest-loser-v0-nj6uycd36k4d1.webp",
+    "CCNA Study/Notes/Total Length.md",
+    "CCNA Study/Notes/TPID.md",
+    "CCNA Study/Notes/Type - Length.md",
+    "CCNA Study/Notes/Types of subnetting problems.md",
+    "CCNA Study/Notes/unicast frame.md",
+    "CCNA Study/Notes/unknown unicast frame.md",
+    "CCNA Study/Notes/Unusable Route.md",
+    "CCNA Study/Notes/UplinkFast.md",
+    "CCNA Study/Notes/user EXEC Mode.md",
+    "CCNA Study/Notes/UTP.md",
+    "CCNA Study/Notes/Version Field.md",
+    "CCNA Study/Notes/VID.md",
+    "CCNA Study/Notes/VLANs.md",
+    "CCNA Study/Notes/VTP.md",
+    "CCNA Study/Notes/VTP domain.md",
+    "CCNA Study/Notes/VTP modes.md",
+    "CCNA Study/Notes/What I've learned so far.md",
+    "CCNA Study/Notes/What is a VLAN.md",
+    "CCNA Study/Notes/what is routing.md",
+    "CCNA Study/Notes/wildcard mask.md",
+    "ACM club.md",
+    "CCIP.md",
+    "Experience.md",
+    "Homelab.md",
+    "HomeLab.jpg",
     "index.md",
+    "Society for Cyber Security.md",
+    "UGA Hacks.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -47,6 +322,28 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -60,7 +357,6 @@
     "lib/styles/obsidian.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
     "lib/styles/snippets.css"
   ],
@@ -80,6 +376,28 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -93,403 +411,2477 @@
     "lib/styles/obsidian.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
     "lib/styles/snippets.css"
   ],
   "fileInfo": {
-    "Spring 2025/Human Computer Interaction/Milestone 3/Best 3 POVs and Why.md": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 3707,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/best-3-povs-and-why.html",
-      "dependencies": []
-    },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Best How Might We Questions.md": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 697,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/best-how-might-we-questions.html",
-      "dependencies": []
-    },
-    "Spring 2025/Human Computer Interaction/Milestone 3/bootcamp bootleg guide.pdf": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 3615098,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/bootcamp-bootleg-guide.pdf",
-      "dependencies": []
-    },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Brainstorming Selection.md": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 1783,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/brainstorming-selection.html",
+    "CCNA Study/Notes/10BASE-T and 100BASE-T.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 579,
+      "exportedPath": "ccna-study/notes/10base-t-and-100base-t.html",
       "dependencies": [
-        "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315142641.png"
+        "ccna-study/notes/pasted-image-20250206085345.png",
+        "ccna-study/notes/pasted-image-20250206090008.png"
       ]
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Brainstorming top 3 Solutions - Milestone 3.md": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 1875,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/brainstorming-top-3-solutions-milestone-3.html",
+    "CCNA Study/Notes/802.1Q.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 394,
+      "exportedPath": "ccna-study/notes/802.1q.html",
       "dependencies": []
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Generated How Might We Questions based on the best POVs.md": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 5664,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/generated-how-might-we-questions-based-on-the-best-povs.html",
+    "CCNA Study/Notes/802.1Q tag format.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 149,
+      "exportedPath": "ccna-study/notes/802.1q-tag-format.html",
       "dependencies": []
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Group Brainstorm - Proposed Solutions.md": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 3248,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/group-brainstorm-proposed-solutions.html",
+    "CCNA Study/Notes/1000BASE-T and 10GBASE-T.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 120,
+      "exportedPath": "ccna-study/notes/1000base-t-and-10gbase-t.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250206090522.png"
+      ]
+    },
+    "CCNA Study/Notes/ABR.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 295,
+      "exportedPath": "ccna-study/notes/abr.html",
       "dependencies": []
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/How Might We.md": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 2299,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/how-might-we.html",
+    "CCNA Study/Notes/Access Ports.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 0,
+      "exportedPath": "ccna-study/notes/access-ports.html",
       "dependencies": []
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Ideate Slide 7 - Design thinking.md": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 264,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/ideate-slide-7-design-thinking.html",
+    "CCNA Study/Notes/Administrative Distance.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1044,
+      "exportedPath": "ccna-study/notes/administrative-distance.html",
       "dependencies": []
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/LaJohn.md": {
-      "modifiedTime": 1742241513778,
+    "CCNA Study/Notes/Alternate ports.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 243,
+      "exportedPath": "ccna-study/notes/alternate-ports.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Application Layer.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 967,
+      "exportedPath": "ccna-study/notes/application-layer.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/APR Table.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 180,
+      "exportedPath": "ccna-study/notes/apr-table.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250209120451.png"
+      ]
+    },
+    "CCNA Study/Notes/ARP.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 292,
+      "exportedPath": "ccna-study/notes/arp.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250209120451.png"
+      ]
+    },
+    "CCNA Study/Notes/ARP Reply Frame.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 237,
+      "exportedPath": "ccna-study/notes/arp-reply-frame.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/ARP Request Frame.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 389,
+      "exportedPath": "ccna-study/notes/arp-request-frame.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/AS.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 139,
+      "exportedPath": "ccna-study/notes/as.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/ASBR.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 197,
+      "exportedPath": "ccna-study/notes/asbr.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Assigning IP Addresses.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 0,
+      "exportedPath": "ccna-study/notes/assigning-ip-addresses.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Auto-MDIX.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 80,
+      "exportedPath": "ccna-study/notes/auto-mdix.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Automatically configured routes.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 178,
+      "exportedPath": "ccna-study/notes/automatically-configured-routes.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/autonomous system number.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 126,
+      "exportedPath": "ccna-study/notes/autonomous-system-number.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/BackboneFast.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 529,
+      "exportedPath": "ccna-study/notes/backbonefast.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250313180054.png"
+      ]
+    },
+    "CCNA Study/Notes/Backup ports.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 655,
+      "exportedPath": "ccna-study/notes/backup-ports.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250313181015.png",
+        "ccna-study/notes/tonights-biggest-loser-v0-nj6uycd36k4d1.webp"
+      ]
+    },
+    "CCNA Study/Notes/bandwidth.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 433,
+      "exportedPath": "ccna-study/notes/bandwidth.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/BDPU.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 142,
+      "exportedPath": "ccna-study/notes/bdpu.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250311112027.png"
+      ]
+    },
+    "CCNA Study/Notes/Bellman-Ford.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 0,
+      "exportedPath": "ccna-study/notes/bellman-ford.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Blocking State.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 519,
+      "exportedPath": "ccna-study/notes/blocking-state.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/BPDU Filter.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 764,
+      "exportedPath": "ccna-study/notes/bpdu-filter.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/BPDU Guard.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 884,
+      "exportedPath": "ccna-study/notes/bpdu-guard.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250312122836.png"
+      ]
+    },
+    "CCNA Study/Notes/Bridge ID.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 518,
+      "exportedPath": "ccna-study/notes/bridge-id.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Bridge Priority.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 60,
+      "exportedPath": "ccna-study/notes/bridge-priority.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/broadcast address.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 138,
+      "exportedPath": "ccna-study/notes/broadcast-address.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/broadcast frame.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 201,
+      "exportedPath": "ccna-study/notes/broadcast-frame.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Broadcast storms.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 128,
+      "exportedPath": "ccna-study/notes/broadcast-storms.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Calculating first and last usable addresses in a network.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 112,
+      "exportedPath": "ccna-study/notes/calculating-first-and-last-usable-addresses-in-a-network.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Calculating number of hosts in a network.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 159,
+      "exportedPath": "ccna-study/notes/calculating-number-of-hosts-in-a-network.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/CCNA Exam Format.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 95,
+      "exportedPath": "ccna-study/notes/ccna-exam-format.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/CCNA Exam Topics.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 7308,
+      "exportedPath": "ccna-study/notes/ccna-exam-topics.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/CCNA Home Lab.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 255,
+      "exportedPath": "ccna-study/notes/ccna-home-lab.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/CCNA Home Lab Supplies.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 186,
+      "exportedPath": "ccna-study/notes/ccna-home-lab-supplies.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/CCNA Lit Review.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 601,
+      "exportedPath": "ccna-study/notes/ccna-lit-review.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/CCNA Practice.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 48,
+      "exportedPath": "ccna-study/notes/ccna-practice.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/ChatGPT Socket Programming Assignment Solution.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 9193,
+      "exportedPath": "ccna-study/notes/chatgpt-socket-programming-assignment-solution.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/choosing a root port.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 846,
+      "exportedPath": "ccna-study/notes/choosing-a-root-port.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250307141132.png",
+        "ccna-study/notes/pasted-image-20250307142010.png",
+        "ccna-study/notes/pasted-image-20250307142224.png"
+      ]
+    },
+    "CCNA Study/Notes/CIDR.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1030,
+      "exportedPath": "ccna-study/notes/cidr.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/CIDR Notation.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 571,
+      "exportedPath": "ccna-study/notes/cidr-notation.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Cisco CLI Commands.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 77,
+      "exportedPath": "ccna-study/notes/cisco-cli-commands.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Cisco Commands.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 109,
+      "exportedPath": "ccna-study/notes/cisco-commands.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Cisco Commands - global config.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 0,
+      "exportedPath": "ccna-study/notes/cisco-commands-global-config.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Cisco IOS.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 116,
+      "exportedPath": "ccna-study/notes/cisco-ios.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/cisco network command.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 844,
+      "exportedPath": "ccna-study/notes/cisco-network-command.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Cisco Packet Tracer.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 0,
+      "exportedPath": "ccna-study/notes/cisco-packet-tracer.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Cisco Router Commands.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 70,
+      "exportedPath": "ccna-study/notes/cisco-router-commands.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Cisco Switch commands.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 7362,
+      "exportedPath": "ccna-study/notes/cisco-switch-commands.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Cisco VLAN commands.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 80,
+      "exportedPath": "ccna-study/notes/cisco-vlan-commands.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/CiscoRoutingTable.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 51415,
+      "exportedPath": "ccna-study/notes/ciscoroutingtable.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Class C Subnets Table.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 688,
+      "exportedPath": "ccna-study/notes/class-c-subnets-table.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Client.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 128,
+      "exportedPath": "ccna-study/notes/client.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Configuring Cisco Devices.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 80,
+      "exportedPath": "ccna-study/notes/configuring-cisco-devices.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Configuring Cisco Devices 1.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 69,
+      "exportedPath": "ccna-study/notes/configuring-cisco-devices-1.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Configuring EtherChannel Load Balancing.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 253,
+      "exportedPath": "ccna-study/notes/configuring-etherchannel-load-balancing.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Configuring IP Addresses.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 863,
+      "exportedPath": "ccna-study/notes/configuring-ip-addresses.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/configuring trunk ports.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 209,
+      "exportedPath": "ccna-study/notes/configuring-trunk-ports.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Configuring VLANs.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 72,
+      "exportedPath": "ccna-study/notes/configuring-vlans.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Connected routes.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 288,
+      "exportedPath": "ccna-study/notes/connected-routes.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250214131832.png"
+      ]
+    },
+    "CCNA Study/Notes/Crossover Cable.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 333,
+      "exportedPath": "ccna-study/notes/crossover-cable.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250206090008.png"
+      ]
+    },
+    "CCNA Study/Notes/CSMA CD.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 604,
+      "exportedPath": "ccna-study/notes/csma-cd.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Data Link Layer.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 226,
+      "exportedPath": "ccna-study/notes/data-link-layer.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Default route.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 518,
+      "exportedPath": "ccna-study/notes/default-route.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/DEI.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 86,
+      "exportedPath": "ccna-study/notes/dei.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Destination Mac Address.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 81,
+      "exportedPath": "ccna-study/notes/destination-mac-address.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Dijkstra's Algorithm.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1372,
+      "exportedPath": "ccna-study/notes/dijkstra's-algorithm.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Discarding State.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 134,
+      "exportedPath": "ccna-study/notes/discarding-state.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Distance Vector.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 698,
+      "exportedPath": "ccna-study/notes/distance-vector.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/DSCP.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 165,
+      "exportedPath": "ccna-study/notes/dscp.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/DTP.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 699,
+      "exportedPath": "ccna-study/notes/dtp.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Dynamic mac addresses.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 85,
+      "exportedPath": "ccna-study/notes/dynamic-mac-addresses.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Dynamic Routing.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1245,
+      "exportedPath": "ccna-study/notes/dynamic-routing.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250320102241.png"
+      ]
+    },
+    "CCNA Study/Notes/Ebay Switch.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1308,
+      "exportedPath": "ccna-study/notes/ebay-switch.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/ECMP.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 164,
+      "exportedPath": "ccna-study/notes/ecmp.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/ECN.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 185,
+      "exportedPath": "ccna-study/notes/ecn.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/EIGRP.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 295,
+      "exportedPath": "ccna-study/notes/eigrp.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/EIGRP configuration.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 516,
+      "exportedPath": "ccna-study/notes/eigrp-configuration.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Encapsulation.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 430,
+      "exportedPath": "ccna-study/notes/encapsulation.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250208111153.png"
+      ]
+    },
+    "CCNA Study/Notes/errDisable.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 128,
+      "exportedPath": "ccna-study/notes/errdisable.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250312123213.png"
+      ]
+    },
+    "CCNA Study/Notes/EtherChannel.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 2163,
+      "exportedPath": "ccna-study/notes/etherchannel.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250318121021.png",
+        "ccna-study/notes/pasted-image-20250319110015.png"
+      ]
+    },
+    "CCNA Study/Notes/EtherChannel Commands.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 987,
+      "exportedPath": "ccna-study/notes/etherchannel-commands.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Ethernet.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 136,
+      "exportedPath": "ccna-study/notes/ethernet.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Ethernet Frame.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 4987,
+      "exportedPath": "ccna-study/notes/ethernet-frame.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250208111742.png"
+      ]
+    },
+    "CCNA Study/Notes/Ethernet Header.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 252,
+      "exportedPath": "ccna-study/notes/ethernet-header.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Ethernet Header Table.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 341,
+      "exportedPath": "ccna-study/notes/ethernet-header-table.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Ethernet LAN Switching.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 361,
+      "exportedPath": "ccna-study/notes/ethernet-lan-switching.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Ethernet Trailer.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 73,
+      "exportedPath": "ccna-study/notes/ethernet-trailer.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Ethernet Type Field.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 50,
+      "exportedPath": "ccna-study/notes/ethernet-type-field.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Extended System ID.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 81,
+      "exportedPath": "ccna-study/notes/extended-system-id.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/FCS.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 20,
+      "exportedPath": "ccna-study/notes/fcs.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Fiber Optic Cable Diagram.md": {
+      "modifiedTime": 1742995669493,
       "sourceSize": 36,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/lajohn.html",
+      "exportedPath": "ccna-study/notes/fiber-optic-cable-diagram.html",
       "dependencies": [
-        "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315194357.png"
+        "ccna-study/notes/pasted-image-20250206091103.png"
       ]
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Milestone 3.md": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 11774,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/milestone-3.html",
+    "CCNA Study/Notes/Fiber Optic Standards.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 576,
+      "exportedPath": "ccna-study/notes/fiber-optic-standards.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/fiber optics.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 381,
+      "exportedPath": "ccna-study/notes/fiber-optics.html",
       "dependencies": [
-        "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315120458.png",
-        "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315120518.png"
+        "ccna-study/notes/pasted-image-20250206091103.png",
+        "ccna-study/notes/pasted-image-20250206091212.png",
+        "ccna-study/notes/pasted-image-20250206091227.png"
       ]
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Milestone 3 - POVs.md": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 8252,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/milestone-3-povs.html",
+    "CCNA Study/Notes/Firewall.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 358,
+      "exportedPath": "ccna-study/notes/firewall.html",
       "dependencies": []
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Milestone 3 - Sketches.md": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 64,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/milestone-3-sketches.html",
+    "CCNA Study/Notes/Floating Static Routes.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 0,
+      "exportedPath": "ccna-study/notes/floating-static-routes.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Forwarding State.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 279,
+      "exportedPath": "ccna-study/notes/forwarding-state.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Frame.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 393,
+      "exportedPath": "ccna-study/notes/frame.html",
       "dependencies": [
-        "spring-2025/human-computer-interaction/milestone-3/sketch3.jpg",
-        "spring-2025/human-computer-interaction/milestone-3/sketch2.jpg",
-        "spring-2025/human-computer-interaction/milestone-3/sketch1.jpg"
+        "ccna-study/notes/pasted-image-20250208111742.png"
       ]
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315120458.png": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 693550,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315120458.png",
+    "CCNA Study/Notes/Frame Check Sequence.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 126,
+      "exportedPath": "ccna-study/notes/frame-check-sequence.html",
       "dependencies": []
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315120518.png": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 302090,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315120518.png",
+    "CCNA Study/Notes/Hello BPDU.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 237,
+      "exportedPath": "ccna-study/notes/hello-bpdu.html",
       "dependencies": []
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315120655.png": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 302090,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315120655.png",
+    "CCNA Study/Notes/Hexadecimal Codes and What they mean for the CCNA.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 3039,
+      "exportedPath": "ccna-study/notes/hexadecimal-codes-and-what-they-mean-for-the-ccna.html",
       "dependencies": []
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315131808.png": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 211848,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315131808.png",
+    "CCNA Study/Notes/How many subnets can you have.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 462,
+      "exportedPath": "ccna-study/notes/how-many-subnets-can-you-have.html",
       "dependencies": []
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315140624.png": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 390564,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315140624.png",
+    "CCNA Study/Notes/How to configure Vlans on CISCO Switches.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 0,
+      "exportedPath": "ccna-study/notes/how-to-configure-vlans-on-cisco-switches.html",
       "dependencies": []
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315142641.png": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 878179,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315142641.png",
+    "CCNA Study/Notes/How to do CCNA Notecards.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 316,
+      "exportedPath": "ccna-study/notes/how-to-do-ccna-notecards.html",
       "dependencies": []
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Pasted image 20250315194357.png": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 50014,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315194357.png",
+    "CCNA Study/Notes/Hub.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 321,
+      "exportedPath": "ccna-study/notes/hub.html",
       "dependencies": []
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/process of narrowing down to the top three HMW questions.md": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 2246,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/process-of-narrowing-down-to-the-top-three-hmw-questions.html",
+    "CCNA Study/Notes/ICMP.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 49,
+      "exportedPath": "ccna-study/notes/icmp.html",
       "dependencies": []
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Sketch1.jpg": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 582342,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/sketch1.jpg",
+    "CCNA Study/Notes/ICMP Echo Reply.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 0,
+      "exportedPath": "ccna-study/notes/icmp-echo-reply.html",
       "dependencies": []
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Sketch2.jpg": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 534970,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/sketch2.jpg",
+    "CCNA Study/Notes/ICMP Echo Request.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 0,
+      "exportedPath": "ccna-study/notes/icmp-echo-request.html",
       "dependencies": []
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/Sketch3.jpg": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 796607,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/sketch3.jpg",
+    "CCNA Study/Notes/Identification field.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 263,
+      "exportedPath": "ccna-study/notes/identification-field.html",
       "dependencies": []
     },
-    "Spring 2025/Human Computer Interaction/Milestone 3/What is a good POV.md": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 580,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/what-is-a-good-pov.html",
+    "CCNA Study/Notes/IEEE 802.3.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 582,
+      "exportedPath": "ccna-study/notes/ieee-802.3.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/IHL.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 271,
+      "exportedPath": "ccna-study/notes/ihl.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Interface Names.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 69,
+      "exportedPath": "ccna-study/notes/interface-names.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Interfaces and Cables.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 178,
+      "exportedPath": "ccna-study/notes/interfaces-and-cables.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Interview Notes.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 4741,
+      "exportedPath": "ccna-study/notes/interview-notes.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/IPv4 Address Assignment.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 387,
+      "exportedPath": "ccna-study/notes/ipv4-address-assignment.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/IPv4 Address Classes.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 841,
+      "exportedPath": "ccna-study/notes/ipv4-address-classes.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/IPv4 Address Classes Table.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 809,
+      "exportedPath": "ccna-study/notes/ipv4-address-classes-table.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/IPv4 Addresses.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 210,
+      "exportedPath": "ccna-study/notes/ipv4-addresses.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/IPv4 Header.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1258,
+      "exportedPath": "ccna-study/notes/ipv4-header.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250213180207.png"
+      ]
+    },
+    "CCNA Study/Notes/IPv4 Header Diagram.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 36,
+      "exportedPath": "ccna-study/notes/ipv4-header-diagram.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250213180207.png"
+      ]
+    },
+    "CCNA Study/Notes/ISL.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 68,
+      "exportedPath": "ccna-study/notes/isl.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/known unicast frame.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 113,
+      "exportedPath": "ccna-study/notes/known-unicast-frame.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/LACP.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 228,
+      "exportedPath": "ccna-study/notes/lacp.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/LACP Configuration.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 449,
+      "exportedPath": "ccna-study/notes/lacp-configuration.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/LAN.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 169,
+      "exportedPath": "ccna-study/notes/lan.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Learning State.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 466,
+      "exportedPath": "ccna-study/notes/learning-state.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Life of a Packet.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 259,
+      "exportedPath": "ccna-study/notes/life-of-a-packet.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250217113519.png"
+      ]
+    },
+    "CCNA Study/Notes/Life of a Packet Network Diagram.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 36,
+      "exportedPath": "ccna-study/notes/life-of-a-packet-network-diagram.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250217113519.png"
+      ]
+    },
+    "CCNA Study/Notes/Link State.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 704,
+      "exportedPath": "ccna-study/notes/link-state.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Listening State.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 727,
+      "exportedPath": "ccna-study/notes/listening-state.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Local routes.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 238,
+      "exportedPath": "ccna-study/notes/local-routes.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Loop Guard.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1643,
+      "exportedPath": "ccna-study/notes/loop-guard.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250312152033.png",
+        "ccna-study/notes/pasted-image-20250312152434.png",
+        "ccna-study/notes/pasted-image-20250312152545.png"
+      ]
+    },
+    "CCNA Study/Notes/LSA.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 285,
+      "exportedPath": "ccna-study/notes/lsa.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/LSA flooding.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 399,
+      "exportedPath": "ccna-study/notes/lsa-flooding.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/LSDB.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 126,
+      "exportedPath": "ccna-study/notes/lsdb.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/MAC Address.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 405,
+      "exportedPath": "ccna-study/notes/mac-address.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/MAC address Table.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 683,
+      "exportedPath": "ccna-study/notes/mac-address-table.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250209122936.png"
+      ]
+    },
+    "CCNA Study/Notes/Max Age.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 838,
+      "exportedPath": "ccna-study/notes/max-age.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Most specific route.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 150,
+      "exportedPath": "ccna-study/notes/most-specific-route.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/MTU.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 51,
+      "exportedPath": "ccna-study/notes/mtu.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/multicast.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 262,
+      "exportedPath": "ccna-study/notes/multicast.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/multicast group.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 104,
+      "exportedPath": "ccna-study/notes/multicast-group.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Multimode Fiber Optic Cables.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 36,
+      "exportedPath": "ccna-study/notes/multimode-fiber-optic-cables.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250206091212.png"
+      ]
+    },
+    "CCNA Study/Notes/native VLANs.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 126,
+      "exportedPath": "ccna-study/notes/native-vlans.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Netmask.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 0,
+      "exportedPath": "ccna-study/notes/netmask.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/network address.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 96,
+      "exportedPath": "ccna-study/notes/network-address.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Network Layer.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 417,
+      "exportedPath": "ccna-study/notes/network-layer.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Network Protocol Flashcards.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 65,
+      "exportedPath": "ccna-study/notes/network-protocol-flashcards.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/network protocols.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 95,
+      "exportedPath": "ccna-study/notes/network-protocols.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Network Redundancy.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 125,
+      "exportedPath": "ccna-study/notes/network-redundancy.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/network standards.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 0,
+      "exportedPath": "ccna-study/notes/network-standards.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/OSPF.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1527,
+      "exportedPath": "ccna-study/notes/ospf.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/OSPF areas.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1277,
+      "exportedPath": "ccna-study/notes/ospf-areas.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250322115541.png"
+      ]
+    },
+    "CCNA Study/Notes/OSPF configuration.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1552,
+      "exportedPath": "ccna-study/notes/ospf-configuration.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/OSPF neighbors.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 2,
+      "exportedPath": "ccna-study/notes/ospf-neighbors.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Other Trunk Port Commands.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 697,
+      "exportedPath": "ccna-study/notes/other-trunk-port-commands.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/OUI.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 111,
+      "exportedPath": "ccna-study/notes/oui.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Packet.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 67,
+      "exportedPath": "ccna-study/notes/packet.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Packet Table.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 75,
+      "exportedPath": "ccna-study/notes/packet-table.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/PAgP.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 97,
+      "exportedPath": "ccna-study/notes/pagp.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/PAgP Configuration.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 479,
+      "exportedPath": "ccna-study/notes/pagp-configuration.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/passive interface.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 360,
+      "exportedPath": "ccna-study/notes/passive-interface.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/passive interface configuration.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 216,
+      "exportedPath": "ccna-study/notes/passive-interface-configuration.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250206085345.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 400182,
+      "exportedPath": "ccna-study/notes/pasted-image-20250206085345.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250206090008.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 527207,
+      "exportedPath": "ccna-study/notes/pasted-image-20250206090008.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250206090522.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 333113,
+      "exportedPath": "ccna-study/notes/pasted-image-20250206090522.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250206091103.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 522275,
+      "exportedPath": "ccna-study/notes/pasted-image-20250206091103.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250206091212.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 255886,
+      "exportedPath": "ccna-study/notes/pasted-image-20250206091212.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250206091227.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 72693,
+      "exportedPath": "ccna-study/notes/pasted-image-20250206091227.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250207080159.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 234862,
+      "exportedPath": "ccna-study/notes/pasted-image-20250207080159.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250207192315.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 51626,
+      "exportedPath": "ccna-study/notes/pasted-image-20250207192315.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250208111153.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 195257,
+      "exportedPath": "ccna-study/notes/pasted-image-20250208111153.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250208111742.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 352220,
+      "exportedPath": "ccna-study/notes/pasted-image-20250208111742.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250209103823.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 303881,
+      "exportedPath": "ccna-study/notes/pasted-image-20250209103823.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250209120451.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 68727,
+      "exportedPath": "ccna-study/notes/pasted-image-20250209120451.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250209122936.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 14381,
+      "exportedPath": "ccna-study/notes/pasted-image-20250209122936.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250213180207.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 78134,
+      "exportedPath": "ccna-study/notes/pasted-image-20250213180207.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250214125643.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 875368,
+      "exportedPath": "ccna-study/notes/pasted-image-20250214125643.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250214131809.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 169320,
+      "exportedPath": "ccna-study/notes/pasted-image-20250214131809.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250214131832.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 257029,
+      "exportedPath": "ccna-study/notes/pasted-image-20250214131832.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250214134030.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1468783,
+      "exportedPath": "ccna-study/notes/pasted-image-20250214134030.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250217113519.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 414190,
+      "exportedPath": "ccna-study/notes/pasted-image-20250217113519.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250307141132.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 902378,
+      "exportedPath": "ccna-study/notes/pasted-image-20250307141132.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250307142010.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 452272,
+      "exportedPath": "ccna-study/notes/pasted-image-20250307142010.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250307142224.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 441657,
+      "exportedPath": "ccna-study/notes/pasted-image-20250307142224.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250307142853.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 907513,
+      "exportedPath": "ccna-study/notes/pasted-image-20250307142853.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250311112027.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 594223,
+      "exportedPath": "ccna-study/notes/pasted-image-20250311112027.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250312122836.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 157703,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312122836.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250312123213.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 146727,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312123213.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250312134534.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 85686,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312134534.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250312135632.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 91521,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312135632.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250312135818.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 104876,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312135818.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250312140009.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 91189,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312140009.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250312141918.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 102691,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312141918.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250312152033.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 73574,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312152033.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250312152434.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 145754,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312152434.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250312152545.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 139912,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312152545.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250312153825.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 95205,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312153825.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250313121454.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 224065,
+      "exportedPath": "ccna-study/notes/pasted-image-20250313121454.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250313121548.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 328992,
+      "exportedPath": "ccna-study/notes/pasted-image-20250313121548.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250313180054.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 227788,
+      "exportedPath": "ccna-study/notes/pasted-image-20250313180054.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250313181015.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 292159,
+      "exportedPath": "ccna-study/notes/pasted-image-20250313181015.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250313184146.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 322961,
+      "exportedPath": "ccna-study/notes/pasted-image-20250313184146.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250318121021.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 250327,
+      "exportedPath": "ccna-study/notes/pasted-image-20250318121021.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250319110015.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 144832,
+      "exportedPath": "ccna-study/notes/pasted-image-20250319110015.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250320102241.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 878015,
+      "exportedPath": "ccna-study/notes/pasted-image-20250320102241.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Pasted image 20250322115541.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 599478,
+      "exportedPath": "ccna-study/notes/pasted-image-20250322115541.png",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/PCP.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 90,
+      "exportedPath": "ccna-study/notes/pcp.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Physical Layer.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 417,
+      "exportedPath": "ccna-study/notes/physical-layer.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/ping.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 127,
+      "exportedPath": "ccna-study/notes/ping.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/point to point networks.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 245,
+      "exportedPath": "ccna-study/notes/point-to-point-networks.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/PortFast.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1619,
+      "exportedPath": "ccna-study/notes/portfast.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Preamble.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 128,
+      "exportedPath": "ccna-study/notes/preamble.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Presentation Layer.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 116,
+      "exportedPath": "ccna-study/notes/presentation-layer.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/privileged EXEC Mode.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 53,
+      "exportedPath": "ccna-study/notes/privileged-exec-mode.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/RIP.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 503,
+      "exportedPath": "ccna-study/notes/rip.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/RIPng.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 35,
+      "exportedPath": "ccna-study/notes/ripng.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/RIPv1.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 257,
+      "exportedPath": "ccna-study/notes/ripv1.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/RIPv2.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 316,
+      "exportedPath": "ccna-study/notes/ripv2.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/RIPv2 Configuration.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 587,
+      "exportedPath": "ccna-study/notes/ripv2-configuration.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/RJ-45.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 39,
+      "exportedPath": "ccna-study/notes/rj-45.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/rollover cable.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 227,
+      "exportedPath": "ccna-study/notes/rollover-cable.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Root Bridge Placement.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1479,
+      "exportedPath": "ccna-study/notes/root-bridge-placement.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250312134534.png",
+        "ccna-study/notes/pasted-image-20250312135632.png",
+        "ccna-study/notes/pasted-image-20250312135818.png",
+        "ccna-study/notes/pasted-image-20250312140009.png",
+        "ccna-study/notes/pasted-image-20250312141918.png"
+      ]
+    },
+    "CCNA Study/Notes/Root Guard.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 946,
+      "exportedPath": "ccna-study/notes/root-guard.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/router.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 150,
+      "exportedPath": "ccna-study/notes/router.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/router ID.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 380,
+      "exportedPath": "ccna-study/notes/router-id.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/router ID configuration.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 170,
+      "exportedPath": "ccna-study/notes/router-id-configuration.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Router on a Stick Configuration.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 248,
+      "exportedPath": "ccna-study/notes/router-on-a-stick-configuration.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/routing fundamentals.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 399,
+      "exportedPath": "ccna-study/notes/routing-fundamentals.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250214134030.png"
+      ]
+    },
+    "CCNA Study/Notes/Routing fundamentals summary.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 36,
+      "exportedPath": "ccna-study/notes/routing-fundamentals-summary.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250214134030.png"
+      ]
+    },
+    "CCNA Study/Notes/Routing Metric.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 2158,
+      "exportedPath": "ccna-study/notes/routing-metric.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Routing Protocols.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 512,
+      "exportedPath": "ccna-study/notes/routing-protocols.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/routing table.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 484,
+      "exportedPath": "ccna-study/notes/routing-table.html",
+      "dependencies": [
+        "ccna-study/notes/ciscoroutingtable.png"
+      ]
+    },
+    "CCNA Study/Notes/RSTP.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1018,
+      "exportedPath": "ccna-study/notes/rstp.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/RSTP BPDU.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 162,
+      "exportedPath": "ccna-study/notes/rstp-bpdu.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/RSTP Link Types.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 420,
+      "exportedPath": "ccna-study/notes/rstp-link-types.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250313184146.png"
+      ]
+    },
+    "CCNA Study/Notes/server.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 46,
+      "exportedPath": "ccna-study/notes/server.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Session Layer.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 60,
+      "exportedPath": "ccna-study/notes/session-layer.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Setting a Password in the CISCO Router.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 189,
+      "exportedPath": "ccna-study/notes/setting-a-password-in-the-cisco-router.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Setting up Cisco Devices.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1082,
+      "exportedPath": "ccna-study/notes/setting-up-cisco-devices.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/SFD.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 31,
+      "exportedPath": "ccna-study/notes/sfd.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/SFP.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 136,
+      "exportedPath": "ccna-study/notes/sfp.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/show ip protocols.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 142,
+      "exportedPath": "ccna-study/notes/show-ip-protocols.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/show ip route.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 428,
+      "exportedPath": "ccna-study/notes/show-ip-route.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250214125643.png"
+      ]
+    },
+    "CCNA Study/Notes/Single Mode Fiber Optic Cables.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 76,
+      "exportedPath": "ccna-study/notes/single-mode-fiber-optic-cables.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250206091227.png"
+      ]
+    },
+    "CCNA Study/Notes/Source MAC Address.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 34,
+      "exportedPath": "ccna-study/notes/source-mac-address.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Source Mac Address 1.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 81,
+      "exportedPath": "ccna-study/notes/source-mac-address-1.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/SPF.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 59,
+      "exportedPath": "ccna-study/notes/spf.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Start Frame Delimiter.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 93,
+      "exportedPath": "ccna-study/notes/start-frame-delimiter.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/static route.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 420,
+      "exportedPath": "ccna-study/notes/static-route.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Static Routing.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 848,
+      "exportedPath": "ccna-study/notes/static-routing.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/STP.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 2193,
+      "exportedPath": "ccna-study/notes/stp.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250307142853.png"
+      ]
+    },
+    "CCNA Study/Notes/STP BPDU.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 147,
+      "exportedPath": "ccna-study/notes/stp-bpdu.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250311112027.png"
+      ]
+    },
+    "CCNA Study/Notes/STP Cisco Versions.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 343,
+      "exportedPath": "ccna-study/notes/stp-cisco-versions.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/STP commands.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 179,
+      "exportedPath": "ccna-study/notes/stp-commands.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/STP Industry Standards.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 504,
+      "exportedPath": "ccna-study/notes/stp-industry-standards.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/STP Modes.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 197,
+      "exportedPath": "ccna-study/notes/stp-modes.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/STP port cost.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 352,
+      "exportedPath": "ccna-study/notes/stp-port-cost.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/STP port states.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1607,
+      "exportedPath": "ccna-study/notes/stp-port-states.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/STP Timers.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 816,
+      "exportedPath": "ccna-study/notes/stp-timers.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/STP Toolkit.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1304,
+      "exportedPath": "ccna-study/notes/stp-toolkit.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250312153825.png"
+      ]
+    },
+    "CCNA Study/Notes/STP Versions.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 52,
+      "exportedPath": "ccna-study/notes/stp-versions.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/STP vs. RSTP.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 935,
+      "exportedPath": "ccna-study/notes/stp-vs.-rstp.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/straight through cable.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 277,
+      "exportedPath": "ccna-study/notes/straight-through-cable.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250206085345.png"
+      ]
+    },
+    "CCNA Study/Notes/Subnet Mask.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 224,
+      "exportedPath": "ccna-study/notes/subnet-mask.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Subnetting.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 600,
+      "exportedPath": "ccna-study/notes/subnetting.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/switch.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 272,
+      "exportedPath": "ccna-study/notes/switch.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/switchport modes.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 3340,
+      "exportedPath": "ccna-study/notes/switchport-modes.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/TCI.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 96,
+      "exportedPath": "ccna-study/notes/tci.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/tonights-biggest-loser-v0-nj6uycd36k4d1.webp": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 8882,
+      "exportedPath": "ccna-study/notes/tonights-biggest-loser-v0-nj6uycd36k4d1.webp",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Total Length.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 137,
+      "exportedPath": "ccna-study/notes/total-length.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/TPID.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 90,
+      "exportedPath": "ccna-study/notes/tpid.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Type - Length.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 257,
+      "exportedPath": "ccna-study/notes/type-length.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Types of subnetting problems.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 415,
+      "exportedPath": "ccna-study/notes/types-of-subnetting-problems.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/unicast frame.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 35,
+      "exportedPath": "ccna-study/notes/unicast-frame.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/unknown unicast frame.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 258,
+      "exportedPath": "ccna-study/notes/unknown-unicast-frame.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Unusable Route.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 171,
+      "exportedPath": "ccna-study/notes/unusable-route.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/UplinkFast.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 268,
+      "exportedPath": "ccna-study/notes/uplinkfast.html",
+      "dependencies": [
+        "ccna-study/notes/pasted-image-20250313121454.png",
+        "ccna-study/notes/pasted-image-20250313121548.png"
+      ]
+    },
+    "CCNA Study/Notes/user EXEC Mode.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1082,
+      "exportedPath": "ccna-study/notes/user-exec-mode.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/UTP.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 122,
+      "exportedPath": "ccna-study/notes/utp.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/Version Field.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 89,
+      "exportedPath": "ccna-study/notes/version-field.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/VID.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 87,
+      "exportedPath": "ccna-study/notes/vid.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/VLANs.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 276,
+      "exportedPath": "ccna-study/notes/vlans.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/VTP.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 436,
+      "exportedPath": "ccna-study/notes/vtp.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/VTP domain.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 76,
+      "exportedPath": "ccna-study/notes/vtp-domain.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/VTP modes.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 793,
+      "exportedPath": "ccna-study/notes/vtp-modes.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/What I've learned so far.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 188,
+      "exportedPath": "ccna-study/notes/what-i've-learned-so-far.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/What is a VLAN.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 568,
+      "exportedPath": "ccna-study/notes/what-is-a-vlan.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/what is routing.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1033,
+      "exportedPath": "ccna-study/notes/what-is-routing.html",
+      "dependencies": []
+    },
+    "CCNA Study/Notes/wildcard mask.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 772,
+      "exportedPath": "ccna-study/notes/wildcard-mask.html",
+      "dependencies": []
+    },
+    "ACM club.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 493,
+      "exportedPath": "acm-club.html",
+      "dependencies": []
+    },
+    "CCIP.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 220,
+      "exportedPath": "ccip.html",
+      "dependencies": []
+    },
+    "Experience.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 465,
+      "exportedPath": "experience.html",
+      "dependencies": []
+    },
+    "Homelab.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 211,
+      "exportedPath": "homelab.html",
+      "dependencies": [
+        "homelab.jpg"
+      ]
+    },
+    "HomeLab.jpg": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 2602033,
+      "exportedPath": "homelab.jpg",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 236,
+      "modifiedTime": 1742995669493,
+      "sourceSize": 830,
       "exportedPath": "index.html",
       "dependencies": []
     },
-    "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315142641.png": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 878179,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315142641.png",
+    "Society for Cyber Security.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 523,
+      "exportedPath": "society-for-cyber-security.html",
       "dependencies": []
     },
-    "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315194357.png": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 50014,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315194357.png",
+    "UGA Hacks.md": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 24,
+      "exportedPath": "uga-hacks.html",
       "dependencies": []
     },
-    "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315120458.png": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 693550,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315120458.png",
+    "ccna-study/notes/pasted-image-20250206085345.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 400182,
+      "exportedPath": "ccna-study/notes/pasted-image-20250206085345.png",
       "dependencies": []
     },
-    "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315120518.png": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 302090,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/pasted-image-20250315120518.png",
+    "ccna-study/notes/pasted-image-20250206090008.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 527207,
+      "exportedPath": "ccna-study/notes/pasted-image-20250206090008.png",
       "dependencies": []
     },
-    "spring-2025/human-computer-interaction/milestone-3/sketch3.jpg": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 796607,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/sketch3.jpg",
+    "ccna-study/notes/pasted-image-20250206090522.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 333113,
+      "exportedPath": "ccna-study/notes/pasted-image-20250206090522.png",
       "dependencies": []
     },
-    "spring-2025/human-computer-interaction/milestone-3/sketch2.jpg": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 534970,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/sketch2.jpg",
+    "ccna-study/notes/pasted-image-20250209120451.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 68727,
+      "exportedPath": "ccna-study/notes/pasted-image-20250209120451.png",
       "dependencies": []
     },
-    "spring-2025/human-computer-interaction/milestone-3/sketch1.jpg": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 582342,
-      "exportedPath": "spring-2025/human-computer-interaction/milestone-3/sketch1.jpg",
+    "ccna-study/notes/pasted-image-20250313180054.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 227788,
+      "exportedPath": "ccna-study/notes/pasted-image-20250313180054.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250313181015.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 292159,
+      "exportedPath": "ccna-study/notes/pasted-image-20250313181015.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/tonights-biggest-loser-v0-nj6uycd36k4d1.webp": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 8882,
+      "exportedPath": "ccna-study/notes/tonights-biggest-loser-v0-nj6uycd36k4d1.webp",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250311112027.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 594223,
+      "exportedPath": "ccna-study/notes/pasted-image-20250311112027.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250312122836.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 157703,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312122836.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250307141132.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 902378,
+      "exportedPath": "ccna-study/notes/pasted-image-20250307141132.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250307142010.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 452272,
+      "exportedPath": "ccna-study/notes/pasted-image-20250307142010.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250307142224.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 441657,
+      "exportedPath": "ccna-study/notes/pasted-image-20250307142224.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250214131832.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 257029,
+      "exportedPath": "ccna-study/notes/pasted-image-20250214131832.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250320102241.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 878015,
+      "exportedPath": "ccna-study/notes/pasted-image-20250320102241.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250208111153.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 195257,
+      "exportedPath": "ccna-study/notes/pasted-image-20250208111153.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250312123213.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 146727,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312123213.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250318121021.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 250327,
+      "exportedPath": "ccna-study/notes/pasted-image-20250318121021.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250319110015.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 144832,
+      "exportedPath": "ccna-study/notes/pasted-image-20250319110015.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250208111742.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 352220,
+      "exportedPath": "ccna-study/notes/pasted-image-20250208111742.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250206091103.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 522275,
+      "exportedPath": "ccna-study/notes/pasted-image-20250206091103.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250206091212.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 255886,
+      "exportedPath": "ccna-study/notes/pasted-image-20250206091212.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250206091227.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 72693,
+      "exportedPath": "ccna-study/notes/pasted-image-20250206091227.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250213180207.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 78134,
+      "exportedPath": "ccna-study/notes/pasted-image-20250213180207.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250217113519.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 414190,
+      "exportedPath": "ccna-study/notes/pasted-image-20250217113519.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250312152033.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 73574,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312152033.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250312152434.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 145754,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312152434.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250312152545.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 139912,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312152545.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250209122936.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 14381,
+      "exportedPath": "ccna-study/notes/pasted-image-20250209122936.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250322115541.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 599478,
+      "exportedPath": "ccna-study/notes/pasted-image-20250322115541.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250312134534.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 85686,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312134534.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250312135632.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 91521,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312135632.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250312135818.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 104876,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312135818.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250312140009.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 91189,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312140009.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250312141918.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 102691,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312141918.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250214134030.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1468783,
+      "exportedPath": "ccna-study/notes/pasted-image-20250214134030.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/ciscoroutingtable.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 51415,
+      "exportedPath": "ccna-study/notes/ciscoroutingtable.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250313184146.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 322961,
+      "exportedPath": "ccna-study/notes/pasted-image-20250313184146.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250214125643.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 875368,
+      "exportedPath": "ccna-study/notes/pasted-image-20250214125643.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250307142853.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 907513,
+      "exportedPath": "ccna-study/notes/pasted-image-20250307142853.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250312153825.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 95205,
+      "exportedPath": "ccna-study/notes/pasted-image-20250312153825.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250313121454.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 224065,
+      "exportedPath": "ccna-study/notes/pasted-image-20250313121454.png",
+      "dependencies": []
+    },
+    "ccna-study/notes/pasted-image-20250313121548.png": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 328992,
+      "exportedPath": "ccna-study/notes/pasted-image-20250313121548.png",
+      "dependencies": []
+    },
+    "homelab.jpg": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 2602033,
+      "exportedPath": "homelab.jpg",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1742995669493,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 14238,
+      "modifiedTime": 1742995669493,
+      "sourceSize": 106875,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 2201,
+      "modifiedTime": 1742995669493,
+      "sourceSize": 22415,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 137567,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 272363,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 394,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
-    "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 3882,
-      "exportedPath": "lib/styles/supported-plugins.css",
-      "dependencies": []
-    },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1742241513778,
+      "modifiedTime": 1742995669493,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1742241513778,
-      "sourceSize": 24897,
+      "modifiedTime": 1742995669493,
+      "sourceSize": 24935,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     }
